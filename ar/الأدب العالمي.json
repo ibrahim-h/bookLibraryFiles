@@ -1,4 +1,346 @@
 {
+    "('طهران.. الضوء القاتم', 'رضا قاسمي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/10VKd0R_A3XCoE3K71PS5mF7LVd04qP2V/view",
+        "otherUrls": ""
+    },
+    "('طوارق', 'ألبِرتو فِيغِيرْوَا')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1-ASooT0tVgSB7e15wT8g5Eqa3skfs0nI/view",
+        "otherUrls": ""
+    },
+    "('طيف ألِكسَندر وُلْف', 'جايتو جازدانوف')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1qY0FqLu0G0uwYZ8LaGE9cI9-WY9aNy2f/view",
+        "otherUrls": ""
+    },
+    "('ذوبان الثلوج', 'إِيليا اهرنبورغ')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1H1aJlr6rOPAJjny7hEwXWrZECse7ez8R/view",
+        "otherUrls": ""
+    },
+    "('دموع القاتل', 'آن لور يوندو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1ggbnaVEbsRwsk5DPjq2xoZRUCFBXUbBn/view",
+        "otherUrls": ""
+    },
+    "('دورا برودويه', 'باتريك موديانو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1B3kiwTh0NWkOF_IM075L9RmrLrac4uOD/view",
+        "otherUrls": ""
+    },
+    "('الإله العظيم بان', 'آرثر مايكين')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1GvkAGUNp1f-PhZ363O2Y-aRe_y3hX9RR/view",
+        "otherUrls": ""
+    },
+    "('آلام فارتر', 'جوته')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1VOzj5v3CJvYcJ73OeeuDB5VVAEmQzOdB/view",
+        "otherUrls": ""
+    },
+    "('الأمير والفقير', 'مارك توين')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1dyT8P3YKKIMcc-1mAWfGO-fqGKczQ8k3/view",
+        "otherUrls": ""
+    },
+    "('جريمتي الأولى', 'لِينَا لِيهْتُولاينين')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/15cMFIojHiuCun8bpKgFMSOInU5qDS1GV/view",
+        "otherUrls": ""
+    },
+    "('جزيرة الدلافين الزرقاء', 'سكوت آديل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1vXMYRwdsWPoVXF-OJr-_hiKTk8Y30bWe/view",
+        "otherUrls": ""
+    },
+    "('جُويْ سْبِيدْبُوتْ', 'تومي فرينيجا')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1AByjcaWBE239JZ94Uo3dEaNjIn8dOH4J/view",
+        "otherUrls": ""
+    },
+    "('الأميرة الصغيرة', 'فْرانسيس هُودِجْسُونْ بيرنت')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1G5VwExyPgHHliC5T3mUFpKZtLwM2wIe7/view",
+        "otherUrls": ""
+    },
+    "('ترومبيت', 'جاكي تاي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1UKS9Py2UTuGAo1E9wYlru14PyIPVKpD3/view",
+        "otherUrls": ""
+    },
+    "('تلوين المستقبل', 'لويس هاي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1yOGQDbzdSUom5BTQeW626ZQ_-WAuoHi7/view",
+        "otherUrls": ""
+    },
+    "('تيل', 'دانيال كيلمن')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1J9_2yRn5ZIvjDo2I7jEOWQKE2biHJhwl/view",
+        "otherUrls": ""
+    },
+    "('الاعتذار', 'إيف إينسل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/12K5KZlLvujY3TjOFPnqOMgbgHrUKWdGb/view",
+        "otherUrls": ""
+    },
+    "('الأكاديمية', 'إيفا مَارِيّا فْرِيدنْسْبورج')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1fGFDMheG7uqeLljfI2t02D3qBtrXPAcp/view",
+        "otherUrls": ""
+    },
+    "('خواطر حمار', 'كونتيسة دي سيجور')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1A6apSkkLWvV5FwNjUxyCqCXxx_LTKhlA/view",
+        "otherUrls": ""
+    },
+    "('غراميات بائسة', 'إيتالو كالفينو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1tu4q4syuANzfIft2nwurHIA4GRU47Iu0/view",
+        "otherUrls": ""
+    },
+    "('صباح ومساء', 'يُون فُوسَه')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/154f2q486GTcX19VXebJlTmfQk3bjQDW9/view",
+        "otherUrls": ""
+    },
+    "('صمت الفتيات', 'بات باركر')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1KRSkFNyXBiB6hsFMpJxI_5svFbSmQBqw/view",
+        "otherUrls": ""
+    },
+    "('أبيض الناب', 'جاك لندن')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1bevz74vDSiUbckcEroR4N04bv2whkaki/view",
+        "otherUrls": ""
+    },
+    "('اتصال', 'كارل ساجان')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1ON4KEgbibXeDwnmybJPf1v2ozbuuaYtj/view",
+        "otherUrls": ""
+    },
+    "('أحبك للنهاية', 'إيفان تورغينيف')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/13jgp192GT-OExFjsfJHjGhStY-uZYJ_n/view",
+        "otherUrls": ""
+    },
+    "('الباب الأزرق', 'أندريا برينك')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1MdiSEEKLu1gW40hlQspY5mMGi1LWW7_5/view",
+        "otherUrls": ""
+    },
+    "('البحث عن أودري', 'صوفي كنيسلا')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1-eFVdJV2DivGCh3PgFhHe2FwXnHsDND7/view",
+        "otherUrls": ""
+    },
+    "('البحر البحر', 'أيريس مردوخ')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1o4OCrAbWfIwurV5U6TrX8kl9uQ0j9pRZ/view",
+        "otherUrls": ""
+    },
+    "('البحر المحيط', 'آلِيْسانْدرو بَارِيكْيُو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1wanb_sH9q3tEdGKt7XlZXOkGpCccCNa0/view",
+        "otherUrls": ""
+    },
+    "('البحيرة السوداء', 'هِيلّا هاسا')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/14W6C2ryLjH-j-TAzoBMBJWoHudhYhX_o/view",
+        "otherUrls": ""
+    },
+    "('البرج', 'ليو جِين يُون')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1aVZmhPh9xtIHI9duGLHeDJ1-g-lT7-aR/view",
+        "otherUrls": ""
+    },
+    "('مذكرات طبيب شاب', 'ميخائيل بولغاكوف')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/16N4oTRNTz6uEgOGJB3fGIcEXfBSAkt00/view",
+        "otherUrls": ""
+    },
+    "('لكنك ستفعل', 'جوزبة كَاتُوتْسِيلا')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1Ue9UemuqOtl4Lglj29zrAAb3YkR_23lM/view",
+        "otherUrls": ""
+    },
+    "('لن أمنحكم كراهيتي', 'أنطوان لاريس')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1P5w6GvO-XNA0vHGf0iHJnw3ot7Vuuly1/view",
+        "otherUrls": ""
+    },
+    "('أختي قاتلة متسلسلة', 'أُوْينكان بْرِيفويت')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1f1dUqy-zGg1o54KKYNs1ycXatdvhZZew/view",
+        "otherUrls": ""
+    },
+    "('الثلاثة', 'سارة لوتز')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1jV4FNSmRDq2yBZgAIrjhYAnoxULV7Eqq/view",
+        "otherUrls": ""
+    },
+    "('الجبال الثمانية', 'باولو كونيتي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1ig2fdwRUXYcCiXhv0HB7rhPTdcvFOdbh/view",
+        "otherUrls": ""
+    },
+    "('الجحيم', 'هنري باربوس')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1FEThaqaGg8bJEZLRXFedJeuE72uehOrg/view",
+        "otherUrls": ""
+    },
+    "('صوت البحر', 'ألبيرتو مورافيا')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1Ads-EdBl5ME3jmFkZOhjka_EI1I_i8gu/view",
+        "otherUrls": ""
+    },
+    "('الحالمة', 'ألبيرتو مورافيا')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1Ux3gMC-jnWdlZKuDs0eFi9sERXyFaHu1/view",
+        "otherUrls": ""
+    },
+    "('الحجرة الخلفية', 'يجل بالشن')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1bjOyp8hh8DGOPUCBBWd-xnTILvWA8cW2/view",
+        "otherUrls": ""
+    },
+    "('الأشباح', 'أندريه بلاتونوف')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1shqJLMjr9xpvLsLDtwzUvj8Bkf6qKxqG/view",
+        "otherUrls": ""
+    },
+    "('الحفرة', 'أندريه بلاتونوف')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1SzOLclKCmdN_21Y6sZmZSmVwolC4JngY/view",
+        "otherUrls": ""
+    },
+    "('بحر الصبا', 'أندريه بلاتونوف')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1VT0-HCoCjN9BRFjacDXwXS1HkI2GYO3Q/view",
+        "otherUrls": ""
+    },
+    "('بذل الغوض والفراشة', 'جون دومينيك  بوني')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/145aE4DSMrmKgBYWbXHi6qlRlcRDOZQ8l/view",
+        "otherUrls": ""
+    },
+    "('حرائق صغيرة في كل مكان', 'سِيلِيسْت إنج')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1AZXO5exIVcB2PUtvM4i2wB6G83NFy4du/view",
+        "otherUrls": ""
+    },
+    "('حرية حزينة', 'فْرِيدريكا غُوزْفَاينر')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/14iiA6uJm3sEwazMZ1yh7UYaoDfSiBm-H/view",
+        "otherUrls": ""
+    },
+    "('حزن غير محتمل', 'بيتر هانْدِكْه')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/16Is13ZMP6eZXLQVP_msl6z8ITZqRWiWv/view",
+        "otherUrls": ""
+    },
+    "('حفلة التفاهة', 'ميلان كونديرا')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1XRpNIs5fwdx_SxhtvsEennh7y6y8VVoO/view",
+        "otherUrls": ""
+    },
+    "('حلم', 'أرتور شْنِيْتْسلر')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1-No92IaFg2GDQB8l3_A0zFGcT7u6KSht/view",
+        "otherUrls": ""
+    },
+    "('حليب سوفييتي', 'نورا إكستينا')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1nREZCRAEC9X126WrkJnrXMxPsOvEt9vg/view",
+        "otherUrls": ""
+    },
+    "('حياة أخرى للنساء', 'لِسو تونغ')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1sn2NHHkRCQvOqpUiFX5bBAboJhShVFLu/view",
+        "otherUrls": ""
+    },
+    "('صديقتي المذهلة', 'إلينا فيرانتي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1jrff77SmToO_r1cbfHKgq0pNAQ0aZD7a/view",
+        "otherUrls": ""
+    },
+    "('حياة البالغين الكاذبة', 'إِلِينَا فيرانتي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/14c6HQ7UtWY90b9jQOal19xbfQQEDDTPF/view",
+        "otherUrls": ""
+    },
+    "('فاطمة', 'روجر ارماندز')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1K5Cl_WpMqogZZXs9A97wbueJuYrpc4Z2/view",
+        "otherUrls": ""
+    },
+    "('فتاة البرتقال', 'جوستاين غاردر')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1a5VKOywVtG29Q4q9XvmoTviVJWURFPPP/view",
+        "otherUrls": ""
+    },
+    "('فتاة كزابلانكا', 'إنْكُولي جانْ بُوفان')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/18XYKOGE7fHX9bE3GVH1gN-2f269RsC1P/view",
+        "otherUrls": ""
+    },
     "('فندق الغرباء', 'دِيمِيْتري فيرهولِست')": {
         "about": "",
         "size": "",
@@ -9,6 +351,2790 @@
         "about": "",
         "size": "",
         "url": "https://drive.google.com/file/d/18Rp9UAqEUGtOe44B7tZRPl2hlAZbS6Zc/view",
+        "otherUrls": ""
+    },
+    "('أربطة', 'دومينيكو ستارنونه')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/11ndzaD0B3Kec-7TbY_IrlO66GdJH_Bzh/view",
+        "otherUrls": ""
+    },
+    "('أسرار', 'كْنُوت هَامْسِن')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1i0RJbWfbmZr10gsqMzv7cSgWxvj7X-Kj/view",
+        "otherUrls": ""
+    },
+    "('اعتراف منتصف الليل', 'جورج دوهاميل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/101p3zqllRZWRapLYpkTOs-mJlW543Kqz/view",
+        "otherUrls": ""
+    },
+    "('اعترافات غايشا', 'آرثر غودن')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1w-HwjDhnZwrx7qe2wpLoWy7z36A8Ifke/view",
+        "otherUrls": ""
+    },
+    "('أعيش مع شبح', 'لُورَا فْرويدنتالر')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1-t8ngpNqBBMzhQkgVzBDqVwe7sYmVCuq/view",
+        "otherUrls": ""
+    },
+    "('الإفطار عند تيثان', 'تْرُومان كابوتي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1-P881GKeY4bYta_tqJhIvNGyQt4vW2EI/view",
+        "otherUrls": ""
+    },
+    "('الرسام تحت المجلى', 'أَفُونْسُو كروش')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1MMICnv2NZPFOBEYf6IQTaILO-I6KksVI/view",
+        "otherUrls": ""
+    },
+    "('مصلح البيانو الضرير', 'مارسيل بريفو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1T-_jUJkkQzYlUM2Jamcw0vLA9oz5oDd2/view",
+        "otherUrls": ""
+    },
+    "('تمبكتو', 'بول أوستور')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/15S6gtRbLTG0LvwsTrdE_H0qzwz40UyGt/view",
+        "otherUrls": ""
+    },
+    "('غير مرئي', 'بول أوستور')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/15f76h9Enqv4eII3CpzWVZAAGL0UuFYND/view",
+        "otherUrls": ""
+    },
+    "('اختراع العزلة', 'بول أوستور')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/15PJ5jgJaE_8Agu9TC32C0207sTQ5idAr/view",
+        "otherUrls": ""
+    },
+    "('حماقات بروكلين', 'بول أوستور')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1MxUmZF8_rizHpBg3hYDBeeoPDAVr9S6g/view",
+        "otherUrls": ""
+    },
+    "('ليلة الوحي', 'بول أوستور')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/10CNHoPyRYjfIO9zkbnHTNK0YK_LxKNKF/view",
+        "otherUrls": ""
+    },
+    "('الزنبقة الحمراء', 'اناتول فرانس')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1EbHSOjpmerd8gZzXv7g_yThBTPw1BS9R/view",
+        "otherUrls": ""
+    },
+    "('السفينة الخامسة', 'مُونِيكَا كُومْبَانِيكُوفَا')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1VKzpM1YwAy0t-vjMK7RfcD335D8oSMdR/view",
+        "otherUrls": ""
+    },
+    "('الشاعر سيرانو دُو بيرجوراك', 'إدمون روستان')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1JvFbbPtrdpqJ6DNb5b0jS3bt8CETgQDb/view",
+        "otherUrls": ""
+    },
+    "('بعد النهاية', 'تْشُو دا شِين')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/19g0vnQ5AT1Udg4-eNofdX5GRME3I_kFC/view",
+        "otherUrls": ""
+    },
+    "('بعد حلول الظلام', 'إيه جِيه بَانر')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/12jtmlc-f4daHwbyobis8sHX7BJQmn2Lz/view",
+        "otherUrls": ""
+    },
+    "('بكين بكين', 'شْيُو تْسِي تْشِين')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/15tJ3n1Abz9Pwp0_UTxHnYUi7dqI0P-1C/view",
+        "otherUrls": ""
+    },
+    "('رباعية الإسكندرية.. كليا', 'لورنس داريل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/11eG9HZd3KNLreNoN36w-wN5JzrAYwpt7/view",
+        "otherUrls": ""
+    },
+    "('ربيع البربر', 'يوناس لوشر')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/123Nzd3PelTMSstdiE0g2_NOrSCAuw6AP/view",
+        "otherUrls": ""
+    },
+    "('ربيع في مرآة مكسورة', 'ماريو بينيديتي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1gj9SFLa_uY9_dEMOlBdy56shI97GA9Pp/view",
+        "otherUrls": ""
+    },
+    "('رجل الطبشور', 'سِيجي تيودور')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1nWsECIIujM9BU2wrvvfeyKvro3aYW4Oq/view",
+        "otherUrls": ""
+    },
+    "('رجلان على الشاطئ', 'مِيشائِيل كُولْماير')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1NERg2x4TpPTJg_cEZu5teBrwk63EboJ3/view",
+        "otherUrls": ""
+    },
+    "('رحالة', 'أُوْلْجَا تُوْكَارْشُوك')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1FeqAa3Wda-p8bF7baCCovbRsvABPqHvV/view",
+        "otherUrls": ""
+    },
+    "('رحلات جليفر', 'جوناسان سوِيفْت')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1O4OtodJBxxyyaJqVVEJ4YKJEW5U9caDE/view",
+        "otherUrls": ""
+    },
+    "('سأقذف نفسي أمامك', 'ديهيا لويس')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1MxK9X38kNj9sSQUva9KbgZdLERFUhSa5/view",
+        "otherUrls": ""
+    },
+    "('سبارتاكوس.. ثورة العبيد', 'هُوارْد فَاسْت')": {
+        "about": "",
+        "size": "",
+        "url": "",
+        "otherUrls": "ج1: https://drive.google.com/file/d/13zHznoHQ1nYQbcpd-Ngn7oJsCjmdmqhG/view\n\nج2: https://drive.google.com/file/d/140vzXjO_DCj0OJvT0fdMKIqe2UF3ikrf/view\n"
+    },
+    "('سجين الجحيم', 'كلايف ساركر')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/18PXC68J1COKy-aOjWBKnm7n6In_K7Q2L/view",
+        "otherUrls": ""
+    },
+    "('شحاذ المعجزات', 'قُصْطَنْطِينْ جيورجيو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1Vg2W-XD5uFj7-8IdJL560cJgcFgsGQPY/view",
+        "otherUrls": ""
+    },
+    "('شخص نعرفه', 'شاري لابينا')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1-W7oFi74X0dSzU17A8eYMGEjU6N5kecJ/view",
+        "otherUrls": ""
+    },
+    "('قلب الظلام', 'جوزيف كونارد')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1ztxwDvBvFz95vdiro3rpTFkz3eDaDMKr/view",
+        "otherUrls": ""
+    },
+    "('عشق سري', 'ريتانا أرميني')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1iHvG6e3T9Y_DIPdhHdlQJDCpjr-c9kJ-/view",
+        "otherUrls": ""
+    },
+    "('الشيفرة', 'ماي جيا')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/147853eyHbdYX2HWV84d6D_DCwnPg-nXZ/view",
+        "otherUrls": ""
+    },
+    "('الصيادون', 'تْشِيغُوزي أوبيُومَا')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1jXR0l5_Czhk7ZBfkV0XQ3m2XNyJAs1O9/view",
+        "otherUrls": ""
+    },
+    "('الطفل الخامس', 'دوريس ليسينغ')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1cUixWL5zS46VA4I8pphcVNOUTISKRCwZ/view",
+        "otherUrls": ""
+    },
+    "('العار', 'تسليمة نسرين')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1ZQOFWivG0jDvDe4hypwYRV0g_6v6PS_z/view",
+        "otherUrls": ""
+    },
+    "('شهداء التعصب', 'ميشيل زيفاكو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1brxnTigQJxjZAvEnuuMPk5FIHj7iWVJa/view",
+        "otherUrls": ""
+    },
+    "('الفخ', 'لِيلْيَا سِيجُورادُوتِير')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1oa8bBe6NxiNASL8CC8-B4aRLFHx679Ut/view",
+        "otherUrls": ""
+    },
+    "('امرأة في النافذة', 'ا.ج. فين')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1040gTmxzRYUjhPyOEZ5FvH3PdO-JJO0g/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('إيلين هولمز', 'نيكوليت ستريمس')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1-_zn_odltqJOZCYQgaUjsTubJuqLeD5z/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('امرأة الجزيرة السوداء', 'ماريا فاس')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1-WvgPcfzdg5-vOONPdVujIhTeq4VsJkn/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('إن أخذ منك الموت شيئًا رده إليه', 'نايا ماريا ايت')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1-YzxIZHVN4NZBD7PF-Jrftk3fQJ9h407/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('جرافيتون', 'مارجا ويست')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1PvROlcVkghgOg2Th-5YGJThMOEQ2Claz/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('عالم جديد رائع', 'أَلْدُوس هِسْكْلِي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1B02UPmBjDD4n1ofLkp7ALbeKhMmQ6Ora/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('طارد الأرواح', 'وليام بيتر بلاتي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1RhPnITU_SL2rDfP9XbMKPuhrh97CnT7M/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('عكس عقارب الساعة', 'جاسْتِين أ. رينولْدز')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1_47MnE8mIEtIxPZm8wcIsbYrsUQJB0_T/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('على الشاطئ', 'نيفيل شوت')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/10VaOCxq55tFayAC6X7JQxwJ09ccY_OKW/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('على الطريق', 'جاك كيرواك')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1Gv8Z0BIo4HM4cn5YdSCHEcb2_78o-mmP/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('مقهى هيانا', 'جانا بينوفا')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1---BUZVU9ocvtEwoHWO5nMcZDjy9bIbi/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('عمالقة نائمون', 'سيلفيان نوفييل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1w6TEWZw4tnCo0WvGn4Z6D5QhHYBot0j8/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('من روائع الأدب الإنجليزي', 'محمد حامد')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/15FWJ1zNbEesdTSO6qYZ6vA-BbmtICot9/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('سكر محروق', 'آفني دوشي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/16-N6EWuEbtVWJmd113yKO3uKBR3zs2mY/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('سميته كرافتة', 'ميلينا مِيتشيكو فْلاشر')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/117EtEiYIzl7uoS8oEoLk3pWk8RrU8uxj/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('سوبرانو القيامة', 'آرثر غَابْرييل ياك')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1Y0GSDLflvC0buF7A7RWHoao9n9G1kH7b/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('العقل والعاطفة', 'جين أوستن')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/12Y1bc8Q8VB0DhdjIcMW9v3KC_LAsFe2M/view",
+        "otherUrls": ""
+    },
+    "('الكبرياء والهوى', 'جين أوستن')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1ExETTHkTsVYcD6_MYBnwm-SCAWuWN16I/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('المائدة الربانية', 'دُونَالد ري بولوك')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1pKJ09kx76DdPC2vnWgviZrGeMCD63dyU/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('المرأة التي كتبت التوراة', 'مَواسير سَكْليار')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1SsvS_-RnOV2DM_fBtY9CmVCwiImWC3_v/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('ماجدولين', 'ألفونس كار')": {
+        "about": "",
+        "size": "",
+        "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Farchive.org%2Fdownload%2Fcutegirle84_gmail_20151008_0538%2F%25D9%2585%25D8%25A7%25D8%25AC%25D9%2592%25D8%25AF%25D9%2588%25D9%2584%25D9%258A%25D9%2586%2520%25D8%25A3%25D9%2584%25D9%2581%25D9%2588%25D9%2586%25D8%25B3%25D9%2588%25D9%2583%25D8%25A7%25D8%25B1.rar&h=AT1wU1UtI5Dk2f6vMj7RynR1Be9Iv1RWzkqU5z7GxSkNe-GZJggs__tvZjOa4Q6XCdXq0Wrrx1qgtREpx1QAqN_m7dF69oDU3BBtrBhB6YwnR6QFGDK6ENRu9uAflzsSKFMs&__tn__=-UK-R&c[0]=AT2jov1bOTjTjyyyzhS5In9f9bQQrxkBcReKE7pcsdPV-74t5opmBHvX7zAdFw0SZhJBZf8smUmc4WiEdLbQiml1loYGeQ8O509WmpgNhFkpSUTw5qQ6fya3lZVmEoZr6SmQb_4A_9bLQyHjo8P2clXnjLaEAcZozJ6NjqZj4QY3p5HPtiNmiyd660wBbRV4rciQmv25WU0WHEx3lCsa7uvmQYcnFdNqUHv5DcJdPX6-scF5",
+        "otherUrls": ""
+    },
+    "('المفقود', 'كارولين إريكسون')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/13qe5GjUJ5oSrU5CMtvZ_Nd1Y2pp7mAAI/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الموت في بابل', 'إسكندر بالا')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/12hld6jPtN1WoSn7Z7tyHO7Xyo418YVGA/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الموسيقي الأعمى', 'فْلاديمير كُورولِينكو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1e3Ffqx0Wr8J4zcwJZc41FN5Nu08j4JY_/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('النباتية', 'هَانْ كانغ')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1GhW40-Hb4se1pi2RZi_PpTB9VTDW9HnD/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('سيرة حياة', 'غِي دُو موباسان')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1shXvWU0TFsUYgPVeHcOyualgedK6zvwm/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الندبة', 'بروس لاوري')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/15QfHxJSBQobfZ-YYj5tTBTZe8uRMxjRM/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('مونولوجْ عازف البْيانو في المحيط  1900', 'ألساندرو باريكو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1hvUkvzqqSApcsTPsPn1IQ-WNs6fwI3MS/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('غرابة في عقلي', 'أورهان باموق')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/12fJaRxl4C_p42ScsPPWYgWrgt4Rt_cpA/view",
+        "otherUrls": ""
+    },
+    "('البيت الصامت', 'أورهان باموق')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/12PnoVJSxur328gCeWS12PDeUCMvZvKtC/view",
+        "otherUrls": ""
+    },
+    "('الحياة الجديدة', 'أورهان باموق')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/10OynYWwcS0ZS-DAQSsetNZYfIIYHk4Wb/view",
+        "otherUrls": ""
+    },
+    "('إسطنبول: الذكريات والمدينة', 'أورهان باموق')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/13-yBRjUSduTPQ4Y3vtwQEGDwgQi-urrv/view",
+        "otherUrls": ""
+    },
+    "('القلعة البيضاء', 'أورهان باموق')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1-XJQwd58hcUBrj2Fzdf2Gz8bcyVFf1ZK/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الكتاب الأسود', 'أورهان باموق')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1-T94QMr2xW1tiYX-WypwaZ9LjHkAN8IY/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('ألوان أخرى', 'أورهان باموق')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1ujQ878cEW3UoVF-eOPxfBe7FUqA3WRKN/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الولد الخفي', 'كاميلا لاكبيرغ')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1taeKa5mt-kCUGvic5U3Ijp0IOHEL5wwi/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('إلينج', 'إنجفار أمبيورنسون')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/156cyTfOTmxznK7sAoYeM_l16D-D_-k3X/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('شيطانات الطفلة الخبيثة', 'ماريو بارغاس يوسا')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/18X7iEBOpe7DlL2ijHHEGMp9OyfxsF_I0/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('شيفرة بابل', 'أوفة شومبورغ')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1Q_CkTRwFQeUSyYK20QE0uLj1E8yJYc6S/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('عودة البولدوج الإنجليزي', 'دُوروثي ماكوي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1-kwW5y2vAGBk5Pr6puRkdF2XmAf6GHxy/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('عيون زرق، شعر أسود', 'مارغريت دوراس')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/12ZknReFO-ZwsMZoiC5xkxT7QrHlM4nb-/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الوينديجو', 'ألِجرِنون بلاكوود')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/12DOjOl4yrdS_34IH0Tkcq7Nhc9z4apAk/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('أنا أسطورة', 'ريتشارد ماثيسون')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1-OY8lOEoDafYIgoxpElU7qEWrl7faJbB/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('واحد، ولا أحد، ومائة ألف', 'لويجي بيرناندِللو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1FkzwcV4Us7wCQlfgRX2cACTBEf97vjtc/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('هذه الزرقة البراقة', 'سْتِيفان مُوْلْدرفر')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/12MEDdW72xZCracK39X3iQFNoUi-kT_z3/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('اعترافات إرهابي', 'ريتشارد جاكسون')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1kmjTesh7vdsRQCjXUDv9b2J6Q2ptyyS8/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('كأس من ذهب', 'جون شتاينبك')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1kGLA9T7Yr5CpheZ91mCuep78Dd8qU8Ek/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('أبناء شارع ويلسدون', 'مونا جولابيك')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/13KlNZ5ZwRho14VMzQKXi08WGDJ4LNysD/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الساعة الخامسة والعشرون', 'قسطنطين جيورجيو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1SgT-fRzZP5XDyuYjEprDeYDsSDRRi2LI/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('سيدة الغموض', 'باول مارس')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/11GAfWVOZV8IZejTtAxRH80bPw2IX0Mu_/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('ولم يعد رجلًا', 'أوسامي دازاي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/11SBrWI7JvsSPHk7KCarAFdOOxgw22QXa/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('البرازيل الحمراء', 'جان كريستوف روفان')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1JyDeNs73xzP7EOfDVgUGyUwBxaWIK4im/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('استدعاء ذاتي', 'بليك كراوتش')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1k2PecZXFOmqOHLXdv5Ot_DB233UkCSfT/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الحب لم يعد مناسبًا', 'ميلا فينتريين')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1CYmUlsdohhk5Sx-HCSAA4xF36kuFptxS/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('سرسي', 'بادلن ميلر')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1WGcTRS_nurt2OeMbeKDmdV4UC9Pqus32/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('تيل', 'دانيال كالمن')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1WSKoPyh2dnXDVlC3XkBVxpfLXNTk6oUr/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('عزلة صاخبة جدًا', 'بوهوميل هرابال')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1CrMVrlHHRVD1DyFFmoSoan_5zDUl5ISK/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('امرأة في حقيبة', 'رافاييل مونتيز')": {
+        "about": "",
+        "size": "",
+        "url": "https://www.youtube.com/watch?v=FhApagm6x08",
+        "otherUrls": ""
+    },
+    "('لا تقولي إنكِ خائفة', 'جوزيه كاتوتسيلا')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1bzVs0baqTZlWX1K3-PG8Vn0O1-wV5wgq/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('سلاحف إلى ما لا نهاية', 'جون جرين')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1mM5YcF7-8aKlxbEgu-TsBYO3Yizy-TNh/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('كورالاين', 'نيل جيمان')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1-A_KOxle6Yub3xf7-Megkdroc9nRrqL8/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('جريمة في بوينوس آيرس', 'كلاوديا بينيرو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1CYaz16XhwCUy4siCfGr3135SCI0xb2VZ/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('عناقيد الغضب', 'جون شتاينبك')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1M1mfxItrW771r05cO0o1v1YUmnVubp3d/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('في انتظار الطوفان', 'ماريز كوندي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1Ci3AR4E5XBivyQ-Af2Cm8B1XLNaBJmW2/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('ليلة النار', 'إريك إيمانويل شميت')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1CnFMy6tiyKpvc4NiyF6sw4X8cT1v-7r8/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('محركات قاتلة', 'فيليب ريف')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1CK4AP5EgiVHKkYFZRadpmBfq-pWLfz6a/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('ذهب المفترسين', 'فيليب ريف')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1CLJF-aP4DFF2ATSaGIhqOWXAgBNtIh_q/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('آلات جهنمية', 'فيليب ريف')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1pxYAUugAkul1UIK6b6j0iREvdG0SZC0K/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('باتشينكو', 'مينجينكو.')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/18YB00mrsa18I-JVTJ9WXjXREbPdBmDWK/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الصلوات تبقى واحدة', 'توما كرمتشي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1Lzptw5S76spyPi3R9Po2TWLO1Eq-HB1a/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الحديقة الجوراسية', 'مايكل كرايتون')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1-9Nsj48WdsgHxUhXhciCygmhMy081drm/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('لون الغواية', 'هانْدي إلتايلي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1nsLT7obaNed0ovmDSJQ2nL-bgACiulrn/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('كيا .. حيث يغني جراد الماء العذب', 'ديليا اوينز')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1ClXo-tA4y9NFbKR5DpPx9FPxNmqrnkBL/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('خلف هذه الأبواب', 'رُوْث وِير')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1Th4ynYjm-4S3ifDjHOslpUxBEfEe-ofU/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('كفاحي: موت في العائلة', 'كارل أوفنسجارد')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/17H0iBSUh6fsRJpuFh-qF-oVrcHpzMi0i/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الرعب في أمتيفيل', 'جاي أنسون')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/17DODIuXUuqCBZgs-kN_JOYcdyffHKLCv/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('كلهم على حق', 'باولو سورنتينو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/17UNCH97YAotRS4wHqkJH5VpPH5Q_b5Jc/view?usp=sharing",
+        "otherUrls": "رابط آخر: https://drive.google.com/file/d/1CiDLkhKTKRIwHbB0zXWKvbRBA7bMQ42b/view?usp=sharing\n"
+    },
+    "('نهاية السيد واي', 'سكارلت توماس')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1AmPpBPEV9S9SehKuJ1OTu9MW6hL5V68V/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('بوذا في العالم السفلي', 'جولي اوتساكو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1MMH7f3L4PTai8yy_agDfHBWFyNI2RpmS/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('مذكرات جيشا', 'آرثر غولدن')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/138kD-upwuZHyQC765AtqrhuIOKqDK-cI/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('آلة الزمن', 'هربرت جورج ويلز')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1Irpm9RO4B4l6868VCTllGNv7WPcu_aMK/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('تابوت الزمن', 'أندريه سنوماغازمنت')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/15ScV1V4yR4-ei3Zh5P0LG6LMspT5Mw4a/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('العطش', 'جو نيسبو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/13yAq5cNv-JfSp8pp7UXeXvUEmCTC2udw/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('وعد الملاك', 'فريدريك لونوار وفيوليت كابوزوس')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/14A592CCSRAIAh3KiaYTrL0TI3v_NYIXD/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('رؤى لونا', 'فريدريك لونوار')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/13zgwBYDF2NI7lieky_BAHv4n-kr1tE_3/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('روح العالم: قوانين الحكمة السبعة', 'فريدريك لونوار')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/14B9Gll3h0n7X9UmHxCy2alMJGzeLm_ms/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الصبية والسيجارة', 'بونوا ديتيرتر')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/13_nsFgXYaW3BthuqZvcOvZzcXsjvMRyK/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('العراب', 'ماريو بوزو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/18tHmVDsFDaxuzIwT4JogNvSgBBFR2OLB/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('جرائم براج', 'ميلوش أوربان')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/12tL3uPapmluME8M3IyhtR2EKXganRHlp/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('القرصان الأسود', 'إيميليو سالغاري')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1uc8yWIND66_rz6tcix9ZcydmOcSPrnBf/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('أشباح الماضي', 'أليسا براون')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1qP1rcPaoY26fnZJrUpuAOrMbpszEoxYp/view",
+        "otherUrls": ""
+    },
+    "('أنا تيتوبا ساحرة سالم السوداء', 'ماريس كوندي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1KyMjVzGmIl07qqUjmyhUTbqb1ybxxHtb/view",
+        "otherUrls": ""
+    },
+    "('اللص الظريف', 'أرسين لوبين')": {
+        "about": "",
+        "size": "",
+        "url": "https://www.youtube.com/watch?v=0DWJohZscWI",
+        "otherUrls": ""
+    },
+    "('مقهى البؤساء', '')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/195G6GneLPsN49RZtRKE6LBdBjule_VPS/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الانتقام الرهيب', 'ماري كوريللي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1PtSwDcLZO_cN_YI4ElxUp_sx2uBBHujo/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('كتاب المقبرة', 'نيل غيمان')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/17x-Qu-ayqRYw4-UBkSWOVe6sFXRg1OA3/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('صاحب الظل الطويل', 'جين ويبستر')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1rnK6HlUIGrynQu-Jle42bXJEoBZoTi6s/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('زهرة القيامة.. عجائب الألفية الثالثة', 'إميليو سلجاري')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1McRmTYOuLzWPgjZcE5y_HOva_1sIb6hC/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('اسمي أحمر', 'أورهان باموق')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/13xq2dcTDT1eZrBxFSecu8rDQUlCk4sSS/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('المعطف', 'نيكولاي غوغول')": {
+        "about": "",
+        "size": "",
+        "url": "",
+        "otherUrls": "ج1: https://www.youtube.com/watch?v=43G48Soa7R8&ab_channel=%D9%83%D8%AA%D8%A8%D8%B5%D9%88%D8%AA%D9%8A%D8%A9\n\nج2: https://www.youtube.com/watch?v=6t_irbWFZx8&ab_channel=%D9%85%D8%B1%D9%8A%D8%A7%D9%85%D8%A9%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A\n"
+    },
+    "('النار والدم', 'جورج آر آر مارتن')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1q2-b_jSZbC-s_WNjfAuLSfZhTAjD3PXQ/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('تنين الجليد', 'جورج آر آر مارتن')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1oZB2ktnS9NYWgPvudH9fsb7laJcwkSRv/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('صروح إسطنبول', 'أحمد أوميد')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/12Cyhon59mONkWuo6jXIJ5xGDRH4Log8y/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('تاتي', 'كريستين دواير هيكي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1_JQgMS-hath1A-kIrCluAMNJKApa6MA6/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('المادة السوداء', 'بليك كرواتش')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1ERBAisl1FyGC6UOC5BSvzf7NW5gQ1va1/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('سبع أكاذيب', 'إليزابيث كاي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1p_WrnuUmWs3VmLvU-oCHyq2YgLI-Jvkl/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('عندما بكى نيتشه', 'إيرفن ديفيد يالوم،')": {
+        "about": "",
+        "size": "",
+        "url": "",
+        "otherUrls": "ج1: https://www.youtube.com/watch?v=79t9mymRv5s\n\nج2: https://www.youtube.com/watch?v=Mz-jS7Acd7g\n\nج3: https://www.youtube.com/watch?v=2F_ryqIewPE\n"
+    },
+    "('الحديقة السرية', 'جِلبرت كيث تشسترتون')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1z2dCKLt2FGR9-XudO6wL4ld7RF5_rT8s/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('بلاك دولفين', 'كريستيان فروست')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1HqjxdWUk7v53K1-0R47BUtpGJ0Wj0oMC/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('صيف بارد جدًا', 'روي ياكوبسون')": {
+        "about": "",
+        "size": "",
+        "url": "https://www.youtube.com/watch?v=Iz5QGgGHJRQ",
+        "otherUrls": ""
+    },
+    "('الغابة السوداء', 'ألجرنون بلاكوود')": {
+        "about": "",
+        "size": "",
+        "url": "https://www.youtube.com/watch?v=EKweZh-n3jg&list=PLSY_yMa_oaLbTgTVuj2Iz0cvf4MHEPOwL&index=4",
+        "otherUrls": ""
+    },
+    "('مريض الوهم', 'موليير')": {
+        "about": "",
+        "size": "",
+        "url": "https://ia801409.us.archive.org/4/items/by-yahia-mohammed_202201/%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%85%D8%B1%D9%8A%D8%B6%20%D8%A7%D9%84%D9%88%D9%87%D9%85%20%D9%84%D9%84%D9%83%D8%A7%D8%AA%D8%A8%20%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%20%D9%85%D9%88%D9%84%D9%8A%D9%8A%D8%B1%20_%20%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%85%D8%B3%D9%85%D9%88%D8%B9%D8%A9%20%D9%83%D8%A7%D9%85%D9%84%D8%A9-by-YahiaMohammed.mp3",
+        "otherUrls": ""
+    },
+    "('ثنائية نسيم الصبا والأمواج السبعة', 'دانيل جلاتور')": {
+        "about": "",
+        "size": "",
+        "url": "",
+        "otherUrls": "ج1: https://ia601500.us.archive.org/15/items/by-yahia-mohammed_20211225/%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%85%D8%B3%D9%85%D9%88%D8%B9%D8%A9%20_%20%D9%86%D8%B3%D9%8A%D9%85%20%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%20-%20%D8%A7%D9%84%D8%AC%D8%B2%D8%A1%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%20-%20%D8%AF%D8%A7%D9%86%D9%8A%D9%84%20%D8%BA%D9%84%D8%A7%D8%AA%D9%88%D8%B1%20%28%D9%83%D8%A7%D9%85%D9%84%D8%A9%29%20by-YahiaMohammed.mp3\n\nج2: https://ia801409.us.archive.org/20/items/2-by-yahia-mohammed/%D8%B1%D9%88%D8%A7%D9%8A%D8%A9%20%D9%85%D8%B3%D9%85%D9%88%D8%B9%D8%A9%20_%20%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%A7%D8%AC%20%D8%A7%D9%84%D8%B3%D8%A8%D8%B9%D8%A9%20%28%D9%86%D8%B3%D9%8A%D9%85%20%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%202%29%20-%20%D8%AF%D8%A7%D9%86%D9%8A%D9%84%20%D8%BA%D9%84%D8%A7%D8%AA%D9%88%D8%B1%20%28%D9%83%D8%A7%D9%85%D9%84%D8%A9%29-by-YahiaMohammed.mp3\n"
+    },
+    "('النفق', 'إنستو ساباتو')": {
+        "about": "",
+        "size": "",
+        "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Farchive.org%2Fdownload%2Fby-yahia-mohammed_20211220_1549%2F%25D8%25B1%25D9%2588%25D8%25A7%25D9%258A%25D8%25A9%2520%25D8%25A7%25D9%2584%25D9%2586%25D9%2581%25D9%2582-%2520%25D9%2584%25D9%2584%25D8%25B1%25D9%2588%25D8%25A7%25D8%25A6%25D9%258A%2520%25D8%25A7%25D9%2584%25D8%25A3%25D8%25B1%25D8%25AC%25D9%2586%25D8%25AA%25D9%258A%25D9%2586%25D9%258A%2520%25D8%25A5%25D8%25B1%25D9%2586%25D8%25B3%25D8%25AA%25D9%2588%2520%25D8%25B3%25D8%25A7%25D8%25A8%25D8%25A7%25D8%25AA%25D9%2588-%2520by-YahiaMohammed.zip&h=AT0OW7WYe16taNQZMY3fM5YNiyvMTBb1tUoLzCAeUubYzbkw9gZROhDjncInllhyF8WvDUQt17G2-49GX0lMnv5K1FD4F4c1gyVCMMxuaTy9a9t2tzEj85axkqrpoM8AG4VL&__tn__=-UK-R&c[0]=AT1vC_D98FsQFY_IbGDvJRH__Jmt5d3KodNusQdDnm04vKUh88-Wba0SrtRVN7fnGgMAGx4nklVKL295mL_L0BRXZxnDmE4hnY0pCx6QXlL9gvkluBy9svq9Eu3ARGRM9wdataszOQxkhMFv4cau5DmaShGJ4hlJJ4om66mbwa6qgs1h1oW1cHA200ZwD0yS1KWxSx-AEkq215BvH7g",
+        "otherUrls": ""
+    },
+    "('النجم الأسود', 'جسبر إرسجارد وجواكيم إرسجارد')": {
+        "about": "",
+        "size": "",
+        "url": "",
+        "otherUrls": "ج1: https://drive.google.com/file/d/1Y5Z2J_lpMYl_zL22t3LWSdOEsiUO4X5k/view?usp=sharing\n\nج2: https://drive.google.com/file/d/1Y6R8C7VlTojCWfoRh9-0-6niSPlhwEZ0/view?usp=sharing\n\nج3: https://drive.google.com/file/d/1YBEiR2MSImGPtEixj4ogQUP6Fabzf4_Z/view?usp=sharing\n"
+    },
+    "('كتاب الرمل', 'خورخي لويس بورخيس')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/10er-utcQHm7gKpfJFBe92-9eUte09A8r/view?usp=sharing",
+        "otherUrls": "رابط آخر: https://ia800906.us.archive.org/6/items/marwaassem84_gmail_201903/%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B1%D9%85%D9%84%20%D8%B5%D9%88%D8%AA%20%D9%88%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%89.mp3\n"
+    },
+    "('أبناء الأيام', 'إدوارد غاليانو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1Y2_DcJH-AoWgKXNpldqeAAu66n9uDRoD/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('سيد الخواتم', 'جون رونالد رويل تولكين')": {
+        "about": "",
+        "size": "",
+        "url": "",
+        "otherUrls": "الكتاب الأول: رفقة الخاتم: \n\nج1: https://drive.google.com/file/d/1LO6wWBCXLWpjIrZyyGYjuwoAf2vyY7Z8/view?fbclid=IwAR30FtPA-cTQPD7CbKeCTDAYp91CTIz2ywxTa_wNQQG6eFfu_KCaVgReztg\n\nج2: https://drive.google.com/file/d/1LaZU_3EZvMl3cBvsq-6Grq6_jPO9k5Re/view?usp=sharing\n"
+    },
+    "('قصة عبور السهول في عام 1860', 'Ox Team to California')": {
+        "about": "",
+        "size": "",
+        "url": "https://ia800202.us.archive.org/zip_dir.php?path=/20/items/ox_team_california_sa_librivox.zip&formats=JPEG,LIBRIVOX%20APPLE%20AUDIOBOOK,ITEM%20TILE,UNKNOWN,ARCHIVE%20BITTORRENT,METADATA,128KBPS%20MP3",
+        "otherUrls": ""
+    },
+    "('تشارلي ومصنع الشوكولاتة', 'رولد دال')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1D2eE089AyOvFgsQv-CWFRLXASzEn67oq/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('قلعة الأسرار', 'هوارس ويلبول')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/14KWNuAt5d_4fZXdZ-1JBCM_RWWjIzDDm/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('جزيرة دكتور مورو', 'هربرت ويلز')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1utZDj3yjO7hfxHoH7i9_jXKnex0HCFYn/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('رجلٌ يُدعى أوف', 'فريدريك باكمان')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1she3y3CMXOzIq8wkShR_OgNH5VXi6HrH/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('متاهة الأحلام', 'جوزيف سيريك')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1qxeFo02GTsGa_BUuni6MSxrClvmr32HW/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('1948', 'يورام كنيوك')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1f1DCqgMGxHZpYUOIcxZQSmuPx94WioPY/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('البريق', 'ستيفن كينج')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1WL47ZsNpULvTfGFSh5_QVk73SNvAA0jW/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('وردية الليل', 'ستيفن كينج')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/19bHf_K8g4DDLKAWI5h24OGueiYkFTTSn/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('كوجو', 'ستيفن كينج')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/19BpkS9aEDKiLO5Zxp5BnnWNooK_7nvDK/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('كاري', 'ستيفن كينج')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1Au7XcaPam51otDU5GTDZiqo6fruNBoOr/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الشيء', 'ستيفن كينج')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/13feB1rTlzq6iCpfnPMfDu1hpPvHh0Z_c/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('دورة المذائب', 'ستيفن كينج')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1lrliQvqt-p1wifZ5Z8Z6DK8I0rbugB5o/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('رفقة الساعة العاشرة', 'ستيفن كينج')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1sekWx7XXrPDHI2tH-BDPFB0JCObeOGWA/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الغرفة 1408', 'ستيفن كينج')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1K4yTVgb-qTn3FszsebMA4zIAjfUlS4hn/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('سباق الموت', 'ستيفن كينج')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1uESbLAOY94OQc0du2RI-F9IC-jeVYwQm/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('نبوؤات اليهود', 'ميشيل دي نوسترادام,')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1-Nlkikzftab4Ohw2sBJ-eIZwbRBr5cGg/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('ظل الريح', 'كارلوس زافون')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1olnb5uJbMD3j8AGNyjVP9NgCbJkmWtpj/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('دون أوهارا: الفتاة التي ضحكت', 'إدينا فيرير')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1XwJAOqN7SF9UkYWKGg6U4Khmbi__uyiu/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('أنا قط', 'ناتسومي سوسيكي')": {
+        "about": "",
+        "size": "",
+        "url": "",
+        "otherUrls": "ج1: https://drive.google.com/file/d/1pNl8pTy7yg3_Hwk4IZV0pj2xmv8yh_Wr/view?usp=sharing\n\nج2: https://drive.google.com/file/d/1bL2Rnv78rVNIOYsL9LGW-1AoYYCz8uyZ/view?usp=sharing\n"
+    },
+    "('الحب والظلال', 'إيزابيل الليندي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1-kALynCLEjd3gzermR0HbZndAQcs6OAS/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('أنشودة الحب', 'مارغريت واي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1XGDudFlIJoBvAUMlZ1eQYNayK3sY1nj0/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('كائن لا تُحتمَل خفته', 'ميلان كونديرا')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1gkF4JsngPS9Vo5FQ5ZTn1jH80mUkNhA_/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('عشر نساء', 'مارثيلا سيرانو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1I_sdpX8LdY5gy3clDY5K7mt6XixpM3Fz/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('سفينة الموتى', 'ب.ترافن')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1SABGKmDI7ykPHF6FiST046DhnaTk7D-K/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('عرس الشاعر', 'أنتونيوس كارميتا')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/10FyktasDwjIF7B8Ha6P88qxkkiukP0_Q/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('هرولة فوق سقيع توليدو', 'ماري رشو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1mtno_rlPzvigZnU-EqsnJ2W6fEFPoMdd/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('مدبرة المنزل والأستاذ', 'يوكو أوكاوا')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1AOaVCD3iWSgHx4Z5ZVkVOcMfdoZapqN2/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('فنان من العالم العائم', 'كازو إيشيغورو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1R5cpTtLX5m07Yj3_aRYdXyz__ozAv8XH/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('نور بين محيطين', 'م.ل ستدمان')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1JqPrQR9EVRdVoqCM8HEYTZu4KHlacfjd/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('وهذا أيضًا سوف يمضي', 'ملينا بوسكيتس')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1d03g2GSVQa02Cx-FCXvS1IMnv8xVf7o0/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('شجرتي شجرة البرتقال الرائعة', 'خوسيه ماورو دي فاسكونسيلوس')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1RbC3V_woVhDb4vfSeeYxjkI3gnzJlsTN/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('مومو', 'كارتميه كارتلانو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1w5jGmGtUFMnnph2d7GzCROqUC4NATScL/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('ثقة', 'آريل دورفمان')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1ziafC2oHOMb3N5wdh8web0aFoQppRJZ3/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('بارتلبي النساخ', 'هرمن نيرفل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1xEI6e2R3xagw1suLX7vatpEXbIQVXQhQ/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('بذلة الغوص والفراشة', 'جون دومينيك بوبي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1-L4Q0TPvM4dS_Mb7bXzpzRTMUoxTKi34/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('أورشليم', 'جونسالو إم. تفاريز')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1fTpGG3IKfGSaOcT9AosivAgAlLgOGUCz/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('أنشودة المقهى الحزين', 'كارسن ماكالرز')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1-v3RgFDYokEn63wAENnRC2GcNG9ktek-/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('المزحة', 'ميلان كونديرا')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1BLwOc8LZ3X9ehZp8xuzwJNXrzdtJVsRe/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('إله الأشياء الصغيرة', 'أرونداتي روي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1zN6PHVT1tk26sNKJ6jpPuT2_u8c_-Ygi/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الفرار في عام 1934', 'سوتونغ:')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/14oClbcUDT-2HDgCLcuM-i6XwUNX4OWt4/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('ألعاب العمر المتقدم', 'لويس لنديرو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1rwe6aSX9RVT0-WTkNof42MNQeUceAToj/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الشيخ والوسام', 'فرديناند أويونو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1forMo2MmnZPb9ol-HpFdJLo3wPCevd8R/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('عشب الليالي', 'باتريك موديانو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1OG0_AopZ1g1kMTkgvXeh_xMP8eeC2Lmd/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('دورا بروديه', 'باتريك موديانو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1Wbp9K_9DOabNq3VHDcKVRpYe2Xj_1IWq/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الأفق', 'باتريك موديانو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1sVY9ASBcGHQjHGzvMnBeZqamVK4aa4br/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('فتاة القطار', 'باول هوكنز')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1ewuJ_HN9hKxlnOVzF6yKDmuDlyd43uIB/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الحلم والأوباش مو يان', '')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1kViogYz4C1GcrK8Yl_fuUxtdmPKDyTDz/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('رحلة من الاتحاد السوفيتي', 'ديفيد توراشفيلي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1-xObHCDZwWNAKV2UtVuWZg9KfXBJzY70/view?fbclid=IwAR3-8PXKtpsIxtcIy2zDOXVd77fmDxbGE74T6CW59QD_WTBm2-6L602cwNo",
+        "otherUrls": ""
+    },
+    "('المنزل الصيفي', 'هيرمان كوخ')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1pXmabiw-LkemiEtIDD3Yh74HtUlb7Wpj/view?fbclid=IwAR0lOriur8FmPCNbSfCmrOgRmT5BgmMp3iXsKEcsHguhq0YMNX0UagshXDI",
+        "otherUrls": ""
+    },
+    "('الزوجة التي بيننا', 'سارة بكانن وغرير هندريكس')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1MWmPF4LcGfxxkicAWza_qL730wLDfGAB/view?fbclid=IwAR2d-sDJuTzAWQH99m4ZpOHVDy49AFQLl_TzGpPWovQdfzdq_hfnbDjTkAk",
+        "otherUrls": ""
+    },
+    "('لغة الطيور', 'نوربرت شوير')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1whKjrMnkLuohqvB5XzhqVLt8QCH3j2eF/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('مطرقة الساحرات', 'هنرتش كريمر')": {
+        "about": "",
+        "size": "",
+        "url": "",
+        "otherUrls": "ج1: https://drive.google.com/file/d/12kKbAhEpxgbrFCou_dYLFTlO0zzjUJxf/view?usp=sharing\n\nج2: https://drive.google.com/file/d/1vAC2BV74HC5-HZdIZ6hRQTjSReSJ13oc/view?usp=sharing\n"
+    },
+    "('عرافة إسطنبول', 'مايكل دافد لوكس')": {
+        "about": "",
+        "size": "",
+        "url": "",
+        "otherUrls": "ج1: https://drive.google.com/file/d/18JTVkHKR8qOITKBwBzxUewzhv9TFJ88s/view?usp=sharing\n\n\n"
+    },
+    "('العشاء', 'هرمن كوخ')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1l0Kn7kAk4uLo-Qjh4EPQ943RnrAB5u0m/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('كافكا: الأعمال الكاملة', 'فرانز كافكا')": {
+        "about": "",
+        "size": "",
+        "url": "",
+        "otherUrls": "ج1: https://drive.google.com/uc…\n\nج2: https://drive.google.com/uc…\n\nج3: https://drive.google.com/uc…\n"
+    },
+    "('المحاكمة', 'فرانز كافكا')": {
+        "about": "",
+        "size": "",
+        "url": "https://www.youtube.com/watch?v=KCTCU662_v8",
+        "otherUrls": ""
+    },
+    "('آخر رجال الموهيكان', 'جيمس فينيمور كوبر')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1tAwa-u37OE6jAxdY8IzFu_MDyZYl6mdf/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('في عتمة الماء', 'باولا هوكينز')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1ASLO5tqpGJ6SJLZFVacFG59VhsK9e5mM/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الرجل الذي يُدعى أوف', 'فريدريك باكمان')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/uc?id=1lR7mAtGPdGnXSyUWfyzgITGUR3Jzd4QC&export=download&fbclid=IwAR21DA_NqzGuVOEFt4k3mP3Eqp1Pl9D89e5RZdoiijqbHRbGrstovZ9yiuk",
+        "otherUrls": ""
+    },
+    "('مزرعة كرة القدم', 'لورنز إسموشن')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/uc?id=19X07BoDzsmjfMKwjHJ-nznIFCrbNd_2Q&export=download&fbclid=IwAR3D2rxhk-_wBEsTyJ5wuIwrkXsmVH9vxd6Ss3b3zRn-BqrzWJKmwB3aV3c",
+        "otherUrls": ""
+    },
+    "('إرادتي هزمت إعاقتي', 'شارون م. درابر')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/uc?id=1lghyVtB_tW1rYpP5wpol37mb3C5_u7od&export=download&fbclid=IwAR00ckbVsvvQUQCkKAx_oC6tB0Yx3q6_oZqShmdiizOyGBRkU-AhAId4u9s",
+        "otherUrls": ""
+    },
+    "('ملحمة الإلياذة', 'هوميروس')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/uc?id=1x1XyrEw39Q_IHBTBEo6Q0ZY_zDlY_xKC&export=download&fbclid=IwAR39McFbFSS3fnRUwB7Apzw1RPuKk0X7I36SAw3vzHxsqqWBZOr67umiVu4",
+        "otherUrls": ""
+    },
+    "('ملحمة الأوديسا', 'هوميروس')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1LFfIn1G8qVG-JaAwCDZG95PN_AQNGOlR/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الليل والضباب', 'أحمد أوميط')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1m58q3PJZ-VXf6Uyo8qWZSnH9rUaa_isa/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('كبرياء', 'جين اوستن')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1Ob0w2FPOwM7BM-0tksqmq61qvJPo8-w-/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('مشروع روزي', 'جرايم سيمسيون')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/13aNOBvSfOdxe-ZJtAfYzq4jzJwOBAlVa/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الطاعون', 'ألبير كامو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1bddvxbZWh5AftqfPlbIk3mYUJT6gtRIV/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('حب قاطع طريق', 'ماسيمو كارلوتو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1bYPLsunre0y3nWsM34fHpwjfB7ie5UvO/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('زوربا', 'نيكوس كازانتزاكيس')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1ZQxbM6Zw3pNKb3EwdW29t1OARDqwwYB3/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الحارس في حقل الشوفان', 'جيروم ديفيد سالينجر')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1L9ZHP4ouu7lu2fzFx941wGoZuHJVyryN/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('ميرنامه: الشاعر والأمير', 'جان دوتس')": {
+        "about": "",
+        "size": "",
+        "url": "https://www.mediafire.com/file/3eu42rv3xq51ng1/%25D9%2585%25D9%258A%25D8%25B1%25D9%2586%25D8%25A7%25D9%2585%25D8%25A9-%25D8%25AC%25D8%25A7%25D9%2586_%25D8%25AF%25D9%2588%25D8%25AA%25D8%25B3.zip/file?fbclid=IwAR2E22TQE1g-IIqhEmuKQrkS-mwxeSwMiZ1FLq8F3Th0vSKXfMGnNhxFgmI",
+        "otherUrls": ""
+    },
+    "('زوجات ومحظيات', 'سوتونغ')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1wmqo6QfWEtLu2oNP80e2BG_Y3gd6BKx_/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('لا تقتل عصفورًا ساخرًا', 'هاربر لي,')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1YE12q-xG-I9zSoSfRH2w4xgwVk3AyYfx/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('ذبابة في الحساء', 'تشارلز سيميك')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/16tDWA7TOIeGsd7R2hTwo4QvgoDNhFquW/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('العجوز والبحر', 'أرنست هيمنجواي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/19mpGTfXyfXDHTqv6XerBo4jKfkQoZX16/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الهدية: سر الاستمتاع بعملك وحياتك .. الآن', 'سبنسر جونسون.')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1uOZHgu6OV-JkEuPobANDqYx9d8ZaaxpI/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('من الظل', 'خوان خوسيه ميّاس')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1r-nLpzQj5ZiKYsfalmaoZyzoD9NcrdVC/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('ظلام دامس، لا نجوم', 'ستيفن كينج')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1QSRMARRo9gUartB7mZhB0WWTUm2mhoK-/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('اللحظة الأخيرة', 'ستيفن كينج')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/15KvJC2An0hgalS68QyQJoZ1oC0eAacCJ/view?usp=sharing",
+        "otherUrls": "رابط آخر: https://drive.google.com/file/d/1LtosHht1U19pOXe8d-lQ-B4WqM3pSS54/view?usp=sharing\n"
+    },
+    "('المسيرة الطويلة', 'ستيفن كينج')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1lISVNJjEOrl5ZT3XvLJrttKg7TyUXpFv/view",
+        "otherUrls": ""
+    },
+    "('الشيطانة', 'ستيفن كينج')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1oW3jsGba5hRGl4-_j3ab5hB2m-qEeV0g/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('المياه كلها بلون الغرق', 'إيميل سيوران')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/12K7qbE4ckl7RirVmwa5ESylZToyPrzxC/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('سطو بمروحية', 'يوناس بونيير')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1JTbPR7ClqjATcF00c0RrIZTe2upyMfPe/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('ساعي بريد نيرودا', 'أنطونيو سكارميتا')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1DckNRaDk5FCcoTQb5wVIZe915jIGWCRm/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('مغامرات روبن هود', 'هاور بيل')": {
+        "about": "",
+        "size": "",
+        "url": "http://www.mediafire.com/file/spqa2ulxl66kdkj/%D9%85%D8%BA%D8%A7%D9%85%D8%B1%D8%A7%D8%AA+%D8%B1%D9%88%D8%A8%D9%8A%D9%86+%D9%87%D9%88%D8%AF-%D9%87%D8%A7%D9%88%D8%B1%D8%AF+%D8%A8%D9%8A%D9%84.zip?fbclid=IwAR3EufpLqvemJQ-KFXeubzXNKBxuuJVFoReYl0Yq5WJqCZs74vZz_6upsuc",
+        "otherUrls": ""
+    },
+    "('أحبك حيًا وميتًا', 'ايفان تورجينيف')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1x0jOXUe6lgb8OL3YeQBK5EPbzDuSfr-o/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الكتب التي التهمت والدي', 'ألفونسو كرو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/drive/folders/1a7OrgZKWT1Srd6UG0HZgMaq0R40n24PM?fbclid=IwAR16QWsVOdNvqEd_TIKecPMUuv3iKMYB3zLcXcm_i3K2h1i4roc4KlsYy9M",
+        "otherUrls": ""
+    },
+    "('جاتسبي العظيم', 'فرانسيس سكوت فيتزجيرالد')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1RoaOrdYF4FuOAoBc_jZv4xIbXjHYyEbz/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('نادي القتال', 'إتشيكبول نك')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1oOkTSRuLGUXJQEM-IWQcoa-bUINtGInN/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الأم', 'مكسيم غوركي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1XOLpRBPImrA7p1djqydLfvTXppQzkkmh/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('عودة', 'ألبيرتو مانجويل...')": {
+        "about": "",
+        "size": "",
+        "url": "http://www.mediafire.com/file/3l0dagxldbh39xt/%D8%B9%D9%88%D8%AF%D8%A9-%D8%A2%D9%84%D8%A8%D8%B1%D8%AA%D9%88+%D9%85%D8%A7%D9%86%D8%AC%D9%88%D9%8A%D9%84.zip?fbclid=IwAR076v5MCVHPUYQnQ-gjhOnJIeT-2W-gJiDrbBu353xw7JFqfg5Y-PjDT_g",
+        "otherUrls": ""
+    },
+    "('اللقاء الأخير', 'شاندور ماراي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1T-CyrEd8jNgGDZebF7Gv0nKobRwRA0cF/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الموت في البندقية', 'توماس مان.')": {
+        "about": "",
+        "size": "",
+        "url": "http://www.mediafire.com/file/inh0u02t1i0yecx/%D8%A7%D9%84%D9%85%D9%88%D8%AA+%D9%81%D9%8A+%D8%A7%D9%84%D8%A8%D9%86%D8%AF%D9%82%D9%8A%D8%A9-%D8%AA%D9%88%D9%85%D8%B3+%D9%85%D8%A7%D9%86.zip?fbclid=IwAR1pM9aOp_4P5t-X60EEJz8gnbjmk9FzuIzL-i4rFDSoyVAcEHN2cfiaxXs",
+        "otherUrls": "رابط آخر: https://drive.google.com/file/d/1FO2m-VL-Duh1HOhnKEnMiAdgUaaSpsyH/view?usp=sharing\n"
+    },
+    "('مذكرات محكوم عليه بالإعدام', 'فيكتور هوجو')": {
+        "about": "",
+        "size": "",
+        "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Farchive.org%2Fdownload%2Fby-yahia-mohammed_20211222_1720%2F%25D9%2585%25D8%25B0%25D9%2583%25D8%25B1%25D8%25A7%25D8%25AA%2520%25D9%2585%25D8%25AD%25D9%2583%25D9%2588%25D9%2585%2520%25D8%25B9%25D9%2584%25D9%258A%25D9%2587%2520%25D8%25A8%25D8%25A7%25D9%2584%25D8%25A5%25D8%25B9%25D8%25AF%25D8%25A7%25D9%2585%2520by-YahiaMohammed.zip&h=AT3bcpYd0NW7Hyu_THzCCJ13R2L2azJtAN7QmuENYARuOPfMN_T7aJRC9yjcOOqpZBq5dvvIm82JrKNTEOjUsaSX0wAe6gjxAzSwtWedS9qAnNtU7xHHhqeGfYiSxz13v9sc&__tn__=-UK-R&c[0]=AT3Lu8loARDyFxHUomUrc82QSND0Rx_e8dYGjikfS_xXxJBSguWaSjHacnrUMjkEriIPWvqLcAo_q0UPS31vqijk_TXPNo2oh5WNQspcIbMQHhctinRsD1-APXcoL_DCYa09A-yX0VVmOyMyLi7XVUhJoC9tircxci_IIpgjhiTmTYlQCyKxkAol8eNKPsZRropyOp3JIY3XnOlDNpg",
+        "otherUrls": ""
+    },
+    "('أحدب نوتردام', 'فيكتور هوجو')": {
+        "about": "",
+        "size": "",
+        "url": "http://www.mediafire.com/file/tkte99bz10ajyv3/%D8%A3%D8%AD%D8%AF%D8%A8+%D9%86%D9%88%D8%AA%D8%B1%D8%AF%D8%A7%D9%85-%D9%81%D9%8A%D9%83%D8%AA%D9%88%D8%B1+%D9%87%D9%88%D8%AC%D9%88.mp3?fbclid=IwAR2aCrqhQsXWYQbIgI9kphH-SGG7d2pyKOn3_QJQJgxpehlvBm7Q49LHNRU",
+        "otherUrls": ""
+    },
+    "('كالماء للشيكولاتة', 'لاورا إسكيبي')": {
+        "about": "",
+        "size": "",
+        "url": "http://www.mediafire.com/file/lcdlfdex9vm7vrd/%D9%83%D8%A7%D9%84%D9%85%D8%A7%D8%A1+%D9%84%D9%84%D8%B4%D9%88%D9%83%D9%88%D9%84%D8%A7%D8%AA%D8%A9-+%D9%84%D9%84%D8%B1%D9%88%D8%A7%D8%A6%D9%8A%D8%A9+%D8%A7%D9%84%D9%85%D9%83%D8%B3%D9%8A%D9%83%D9%8A%D8%A9+%D9%84%D8%A7%D9%88%D8%B1%D8%A7+%D8%A5%D8%B3%D9%83%D9%8A%D8%A8%D9%8A%D9%84.mp3?fbclid=IwAR0IwWygrdBMjbuvr11RISsq8-7_EansfhmLt6TWMMa6bEqkumFUA0eUWaA",
+        "otherUrls": "رابط آخر: https://drive.google.com/file/d/1iE2kWp-XdRvybxFVeR7fmaBcPg2npgZJ/view?usp=sharing\n"
+    },
+    "('إيفانهو', 'والتر سكوت')": {
+        "about": "",
+        "size": "",
+        "url": "http://www.mediafire.com/file/e8bcox5wj856wpp/%D8%A5%D9%8A%D9%81%D9%86%D9%87%D9%88-%D9%88%D8%A7%D9%84%D8%AA%D8%B1+%D8%B3%D9%83%D9%88%D8%AA.zip?fbclid=IwAR0FbyBV6YJX-CPRS5HVg6EabU30HrVRjNfxd6CAlsI3ZlYSytQ9dElF45U",
+        "otherUrls": ""
+    },
+    "('راوية الأفلام', 'إيرنان ريبيرا لتيلير')": {
+        "about": "",
+        "size": "",
+        "url": "http://www.mediafire.com/file/9v9r9dbnilsnd7g/%D8%B1%D8%A7%D9%88%D9%8A%D8%A9+%D8%A7%D9%84%D8%A3%D9%81%D9%84%D8%A7%D9%85-+%D9%84%D9%84%D8%A3%D8%AF%D9%8A%D8%A8+%D8%A7%D9%84%D8%AA%D8%B4%D9%8A%D9%84%D9%8A%D9%91+%D8%A5%D9%8A%D8%B1%D9%86%D8%A7%D9%86+%D8%B1%D9%8A%D8%A8%D9%8A%D8%B1%D8%A7+%D9%84%D9%8A%D8%AA%D9%8A%D9%84.mp3?fbclid=IwAR3MyYB2YsSs5tHcqnrqjNUpgoj0DJ9VdS14RCcpGZp39mOUD78pOFxTnPI",
+        "otherUrls": ""
+    },
+    "('بائعة الخبز', 'كازافيه دو مونتبان')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1-flMf69UBdlq27Ub2_RiuB4p_Yz8N1UC/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('ذهب مع الريح', 'مارغريت ميتشل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/uc?id=1T5-mOOtaC63rHqex1egGL8yEi2xWKE-e&export=download&fbclid=IwAR3HM_HyQQMawftanTkUO3XnfZJjcOW0pEykaPq1CpOPZowlbJ3P-UusHGw",
+        "otherUrls": ""
+    },
+    "('نرسيس وغولدموند', 'هرمان هسه')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/uc?id=1W9muZDWGgTdTicrZyrg3h8kxufW6yjz7&export=download&fbclid=IwAR1zuoQS5dhjPMqJIlzvjT8Y_lQ-JIhQpImjtCJF4gMMMHW9-5Wru5vz3ew",
+        "otherUrls": ""
+    },
+    "('ذئب البراري', 'هيرمان هسة')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1qK_nLwqpH_bDP-tzEv1nf30SRpD-_nm9/view",
+        "otherUrls": ""
+    },
+    "('دميان', 'هيرمان هسة')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1YnqFh9rbYmU2T3Q7bdghL2noXjFE8u6M/view?usp=sharingسي",
+        "otherUrls": "رابط آخر: https://drive.google.com/file/d/17ajHQ9XNqlHTq3gaNgQ6tVOIOHlUdCnM/view?usp=sharing\n"
+    },
+    "('دهارتا', 'هرمان هسّه')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1NgTC1N5W2PyymWXF59oK5zETA_9enSBn/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('1942', 'ليوجين يون')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1lK9eLAKFdVH-Ivu2jwVqdVUfAvYykput/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('هيا نشتري شاعرًا', 'أفونسو كروش')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1r6e220JwrF0mtl6n3ORMQ4Ju28qJl0wr/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('ألسنة اللهب', 'سوزان كولينز')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1LV5f0p7iUB-m7amf1zpApNskiAs0rRvn/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('مباريات الجوع', 'سوزان كولنز')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/14LhPPPryaAhBDGiRLw7-z5WmKoH_j95k/view?usp=sharing",
+        "otherUrls": "رابط آخر: https://drive.google.com/uc?id=1fCwA-6klGQd_eK8xb6VN2nuVjNEVPqf9&export=download&fbclid=IwAR3nwvItAe_he9n15Ek6Nmx--PbgkRCaZ4N_pREKCLK-A5rqslhV5D7b1Zo\n"
+    },
+    "('الطائر المقلد', 'سوزان كولنز')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/12dlJRPQ2UOJEmt15X7IG2vCGPyD7PR3T/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('اللؤلؤة', 'جون شتاينبك')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1CnZAF4S13s38xB7mZDwRzFthDCNHinro/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الفرسان الثلاثة', 'ألكسندر دوما')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1Canklzyl4mpHDqDAxFdMcU1J9Cz_ylEY/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الزنبقة السوداء', 'ألكسندر دوما')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1R9XB23nOb088xQ5mA_XXM0ftS4lsYSz7/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('سارق الأبد', 'كليف باركر')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1nijkcFTAVAlfanEInjh_q68y9HttoMKp/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('سجين المريخ', 'آندي ويير')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1QW9pqoVCfwa-wUibSp8rZ51ntvJxuiDc/view?usp=sharing",
+        "otherUrls": "رابط آخر: https://drive.google.com/uc?id=1GzoSH-ldblC2AzXSbWIpsEXsj8QgMTPc&export=download&fbclid=IwAR2x4PE6lfaPMz2Q9O3qjNgTSj7B01HY_gwy6C2qUi7huvgrFoxMfeleC-Y\n"
+    },
+    "('فوضى الأحاسيس', 'ستيفان زفايغ')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1lUO0J-H4W1rMK60U51am12NkUldh23lu/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('ماندل بائع الكتب القديمة', 'ستيفان زفايغ')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1HtOhP7Ivuq7QB_aBA0LncJfxhRXsHakW/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('لاعب الشطرنج', 'ستيفان زفايغ')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1WhFejbmHQMrYo79BMxUfqydNG3mKenSB/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('24 ساعة من حياة امرأة', 'ستيفان زفايغ,')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1ZiZ-QeXmEYIyqvTfz1kPCqa76bM_c_Az/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('آموك.. سعار الحب', 'ستيفان زفايغ')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1AkGyi-zKGugnMR3bfdff1utI69fqRIgv/view?usp=sharing",
+        "otherUrls": "رابط آخر: https://drive.google.com/file/d/1u72v2j4a5Q54HmfDgiVLm870Sr2F0ZAj/view\n"
+    },
+    "('رسالة من مجهولة', 'ستيفان زفايغ')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1XcKTKzxxa6-CUOADs9EEkHQ1kMnhktFr/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('السر الحارق', 'ستيفان زفايغ')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1l7jv2xpfxJ0PzUGs7QWx8WrR1IflazN0/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الخوف', 'ستيفان زفايغ')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1mu1IL-V3QsBq8lOzajmR8jqYKsmOi996/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('جزيرة الأشجار المفقودة', 'إيليف شافاق')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1--I43Z660h-a-VQCLKL4DFe1TsQmL0W8/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الفتى المتيم والمعلم', 'إيليف شافاق')": {
+        "about": "",
+        "size": "",
+        "url": "",
+        "otherUrls": "الجزء الأول: https://drive.google.com/drive/folders/1afyzIpwC1BRJMmpFWUHMStV83a5W3uvD?fbclid=IwAR1LpqMqyHwSKHSl5c-WhVnWfLorPmsZNvpdCgiraaXhWFFO-IhGfL862Z0\n\nالجزء الثاني: https://drive.google.com/drive/folders/1t353jOGiz2luNYSy8McPXZ6RPW97OEwP?fbclid=IwAR2Xd50UFr7Q8zSKpH58w49eKb4To3_eVDNQNyHQUwJi4bcFAcis6Fn74us\n"
+    },
+    "('بنات حواء الثلاث', 'إيليف شافاق')": {
+        "about": "",
+        "size": "",
+        "url": "",
+        "otherUrls": "الجزء الأول: https://drive.google.com/drive/folders/1Y7sJB9ey2uGgz28xJ6w8IPcSvL8bpv5y\n\nالجزء الثاني: https://drive.google.com/drive/u/0/folders/1ga8znLTTH-rRvzsY_5Ji8QJuvzmk1uTt\n"
+    },
+    "('قواعد العشق الأربعون', 'إيليف شافاق')": {
+        "about": "",
+        "size": "",
+        "url": "",
+        "otherUrls": "الجزء الأول: https://drive.google.com/file/d/1RJQi9r0Mb0giq9Gn0xMBkxIFs-T29GIY/view?usp=sharing\n\nالجزء الثاني: https://drive.google.com/file/d/1-CngS9Nkiskr6BSgEt-pcXr2Q5biNEJ-/view?usp=sharing\n\nالجزء الثالث: https://drive.google.com/file/d/1o7t_hjr5Ab4Ywv6ZgoPY9Lt8IQwO8Hln/view?usp=sharing\n\nالجزء الرابع: https://drive.google.com/file/d/1Jf9MNvcHOwz9rjjSpGJ_cxHbXZxPyiRI/view?usp=sharing\n\nالجزء الأخير: https://drive.google.com/file/d/1CEthXVf16-OC6cb5c_19ZnF8Hjebe9Uy/view?usp=sharing\n"
+    },
+    "('لقيطة أسطنبول', 'إيليف شافاق')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1AiIfdfFnJEYI3--LbSlSRX7_94iLVIal/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('حيث تركتُ روحي', 'جيروم فيراري..')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1OiY1DvxyQbn6N3q8DYn9gYS_GHgMTlq-/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('كيف أصبحتُ غبيًا', 'مارتن باج')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1QnWIHiuWjjRcmiL1Mm_PiC20Dlz889fA/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('مغامرات شيرلوك هولمز', 'آرثر كونان دويل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/182ARhGk632qyra42rFOUSI7Q2PM0KNHc/view",
+        "otherUrls": ""
+    },
+    "('لغز الوجه الأصفر', 'آرثر كونان دويل')": {
+        "about": "",
+        "size": "",
+        "url": "https://www.youtube.com/watch?v=6YaTCRV9UKY",
+        "otherUrls": ""
+    },
+    "('لغز وادي بوسكومب', 'آرثر كونان دويل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1_ete1IshUruvscz7_P-EkJMS0dSJgKAM/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('لغز المريض المقيم', 'آرثر كونان دويل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1akJGBiPGk6LQIVoF7ysbTw5kcyQvnYhH/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('وصية عائلة موسغريف', 'آرثر كونان دويل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1L0bH9cuFWffjTHIqDDQr2UIFfffVRBCC/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('سفينة غلوريا سكوت', 'آرثر كونان دويل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1LOvFg10z3KgDdr5sN2cVL6UrnAaWMKZK/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('لغز الطرد البريدي', 'آرثر كونان دويل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1g3ReoGl0fTw39KU4u6-lZDngc_nDx71V/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('منزل الأشجار النحاسية', 'آرثر كونان دويل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1xLMmJMrbHUXXjv_SKC-BqJpcUgL-9qW5/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('مغامرة تاج الزمرد', 'آرثر كونان دويل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1PHeG_dLb6o0niw_JhMb6f0bDHKpVxkFH/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('مغامرة النبيل الأعزب', 'آرثر كونان دويل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/14sCaj0zZNjXxivV18TdZTmKu1Wh2Syni/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('مغامرة إبهام المهندس', 'آرثر كونان دويل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1spn7VaY85TpitwZUAFHj_V2RZSU8nZaK/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('لغز العصابة الرقطاء', 'آرثر كونان دويل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1qd1vHD0hsweeXSES85oCUNZUrey0xPmg/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('مغامرة الجوهرة الزرقاء', 'آرثر كونان دويل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1m3Zn9BqoHLG_hReyUgJm4y9b-0-dETB3/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('ذو الشفة الملتوية', 'آرثر كونان دويل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1SVr8aZzuhY-jrjGyuq-_L5Ivvn2nvtm0/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('بذور البرتقال الخمس', 'آرثر كونان دويل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1SVr8aZzuhY-jrjGyuq-_L5Ivvn2nvtm0/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('عصبة ذوي الشعر الأحمر', 'آرثر كونان دويل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1qYwzByOHT2bjA7BZVD6B_z3H63O6L_L1/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('دراسة في القرمزي', 'آرثر كونان دويل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1u9wwZz_uvjEBiR26Ba0Foo1dLZlnYPiD/view?fbclid=IwAR3XALjM4tip3yh3WiCLtkZMTQeNJhNbsEyUSQo5crTK5U2oGCqPIhBkfzM",
+        "otherUrls": ""
+    },
+    "('الأحدب شيرلوك هولمز', 'آرثر كونان دويل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1rCOBWFKqxSh0YW60PRXl69CkKmmsqL1o/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('كلب عائلة بسكرافيل', 'آرثر كونان دويل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1-SBQsm4qrVQot9xnqzDqg7i-iVNflaEL/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('قضية هوية', 'آرثر كونان دويل')": {
+        "about": "",
+        "size": "",
+        "url": "https://ia601509.us.archive.org/31/items/01032018/01-03-2018.zip",
+        "otherUrls": "رابط آخر: https://drive.google.com/file/d/1QPL_nI23O3UyD314u54V7zf7sRT5n_v3/view?usp=sharing\n"
+    },
+    "('الغريب', 'ألبير كامو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/18uHd24L1oxI23ABz_UmyRb27E-PSldVM/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الموت السعيد', 'ألبير كامو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1_imE0QV2nRqf4cgEAA8L6mcSBq3pOyND/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الأنفس الميتة', 'نيقولاي غوغول')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1N6f6KQkSQlKS6zEbaepXywMwGvQPrtzH/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('شرق عدن', 'جون ستاينبك')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1fdrhgdZejgfd1flxHh0B5ztLyeIfGvs3/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('لورنا دونْ', 'آر دي بلاكمور')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1YfLVy-S5BMhOjd4oIfv2ghE4o_PPmuVb/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الحرب والسلم', 'ليو تولستوي')": {
+        "about": "",
+        "size": "",
+        "url": "",
+        "otherUrls": "ج1: https://drive.google.com/file/d/1-CqM6X4bIKuzd7cruoUP1zSk2glMPcP0/view?usp=sharing\n\nج2: https://drive.google.com/file/d/10AcVnuyWNyDTkUZVNavliQwDHvHaWEHo/view?usp=sharing\n"
+    },
+    "('آنّا كارنينا', 'ليو تولستوي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1rATjFlhLGqC67STe0h5wCiy-pECMjJiw/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('البعث', 'ليو تولستوي.')": {
+        "about": "",
+        "size": "",
+        "url": "",
+        "otherUrls": "الجزء الأول: https://drive.google.com/file/d/1cXkhadmbyf6Y3s-GSDMAvdL9CSnySH_X/view?usp=sharing\n\nالجزء الثاني: https://drive.google.com/file/d/1r71RiiLbd7mZqo2h4ha5s4qOVxuANTgC/view?usp=sharing\n\nالجزء الثالث: https://drive.google.com/file/d/1SRTYclhbwkb7Qw9LZxbqVjbdSEAmMgYL/view?usp=sharing\n"
+    },
+    "('الراية الإنجليزية، المحضر', 'إمره كيرتس')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1eU22msSGavtCfANNXXPD0OSw_Q19TKb7/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('أوسكار والسيدة الوردية', 'إريك إيمانويل شمي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1-yUpOJjLa1q1nJlYGB8-URDCu38adI8a/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('سايلاسْ مارنر', 'جورج اليوت')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1o2V9w2Z5U98cd-toCvSNIljQTDChvC0h/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('قصة موت معلن', 'غابرييل غارسيا ماركيز')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/15fkU7swYdR8odHtnhUjKR4701su7Qqvl/view",
+        "otherUrls": ""
+    },
+    "('الحب في زمن الكوريلا', 'غابرييل غارسيا ماركيز')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1NTIgf3Z9KkcCbE2Zr9jcnFPPmkqHyXmT/view?usp=sharing",
+        "otherUrls": "نسخة أخرى: https://drive.google.com/file/d/1r__me2f8sZBpof5KH6zvcEjWUNBBezBI/view?usp=sharing\n"
+    },
+    "('مائة عام من العزلة', 'غابرييل غارسيا ماركيز')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/uc?id=1DfOF8PvqhYpxuBECYCdTI8bQQLzdV6Na&export=download&fbclid=IwAR2gLDd6IX2_UYt-CqWK2T-mnCy3f-OzrUJi41Ar_pE8xh9Qe0VxBfWjdHQ",
+        "otherUrls": ""
+    },
+    "('خريف البطريرك', 'غابْرِييل غارسيا ماركيز')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1LgOv4ePdUBjYLdOXWdPko7O6QXINmlO_/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('ثلاثة رجال في قارب', 'جيروم ك')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1H0NTGHfOe7G14S6i6XO_FbEydQB1X9U6/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الدرجات التسع والثلاثون', 'جون بوكان')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1ggnsEqsgk43Mkaw7fLwcpmIGWXBdPjcb/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('??? فهرنهايت', 'راي برادبري')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/drive/u/0/folders/1V-Ze4Stt0-OMogdG3nfivEME61I7vfDk",
+        "otherUrls": ""
+    },
+    "('الأسير', 'جويس هانسن')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1R0T5cIrAMASyghY2IPUXDC4f_h-c7G18/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('آخر أيام بومباي', 'لُورد لِيتون')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1v5TGdT1KJ7-yk1yNUQFSmEiNNenDZhvd/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('ابكِ أيها البلد الحبيب', 'آلان باتون')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1vGyXN6cWWuECBvvfGY6cYUp2i5U0b4ov/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('مخطوطة وُجِدَت في عكرة', 'باولو كويلو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/117hht9Zebp-iRGBQFA9ySoKA3PBDxGd1/view",
+        "otherUrls": ""
+    },
+    "('الرابح يبقى وحيدًا', 'باولو كويلو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/15gGJobYTWzSUrtD0f9wVhryUQ2BZ-mlu/view",
+        "otherUrls": ""
+    },
+    "('الزانية', 'باولو كويلو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1eXmDmAySanDQ0IxFtp9Ra7-hprVIOB3K/view",
+        "otherUrls": ""
+    },
+    "('الزهير', 'باولو كويلو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1mC01sUmel3BkjV96Y4PU5tqyOvk4H_86/view",
+        "otherUrls": ""
+    },
+    "('ألف', 'باولو كويلو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1g_L6jqTPHECe7wma-9wTXfcpBeXYU1pC/view",
+        "otherUrls": ""
+    },
+    "('مكتوب', 'باولو كويلو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/11nFVBiWDliQHJrczyOFL2kErdqSA5Lss/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('على نهر بييدرا هناك جلست فبكيت', 'باولو كويلو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1LLkUih6Gtm8XtA5qT6MyOoHq1VKX2kJ1/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الجبل الخامس', 'باولو كويلو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/11nNOQjlISH38oPT80kegCzx5fx24DSo6/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الجاسوسة', 'باولو كويلو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1-Hl9Xs-M-Cd37eMFqupxLgDzj1mUml4T/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('إحدى عشرة دقيقة', 'باولو كويلو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/18jwOqYvVHRb80GQz-swILwYdnON26L1R/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('السيميائي ساحر الصحراء', 'باولو كويليو،')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1yBBHlPk_YRuBXfaOuBZcjrf7FIi6VPHP/view?usp=sharing",
+        "otherUrls": "نسخة أخرى: https://drive.google.com/file/d/1WB35dpwYRhLPbV84ebvcqb-dat44QLBD/view?usp=sharing\n"
+    },
+    "('فيرونيكا تقرر أن تموت', 'باولو كويلو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1-mi7EJHEQd5sFC0XaPmsT78wiWmYcsTJ/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('المجاعة البيضاء', 'أكي أوليكانين')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1KpQElcCzQ5SD390jHGW3nTkww0BqiY7E/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('طقوس في الظلام', 'كولن ولسون')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/drive/folders/1CJlp6PMGYhekoN9gY3iB7zEL_0aOJZBO",
+        "otherUrls": ""
+    },
+    "('سارق الجثث', 'باتريسيا ميلو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1XhIh_6s8v6ROT8qyRnJbyLqsOoomzStd/view?usp=sharing",
+        "otherUrls": "رابط آخر: https://drive.google.com/uc?id=19AmTAP4djFGomm9cVG8cb3Wcayb6Z6MR&export=download&fbclid=IwAR34NAa0JOfnGgycbYY4eOnYCVi0BRF6TJT9cRGCgq8daEHDwfzuZDSbE4s\n"
+    },
+    "('مدينة البهائم', 'ايزابيل اللندي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/drive/u/0/folders/1gMN5M7STq236R6xZux5WD7ByHfS85lq5",
+        "otherUrls": ""
+    },
+    "('ما تخبئه لنا النجوم', 'جون جرين')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1bSXUTiKnplLAdYOUg3UcOyvRMT81OrEV/view?usp=sharing",
+        "otherUrls": "رابط آخر: https://drive.google.com/file/d/1Au6kj--j359G_-RFj7e8WMdf8Mr_IIRI/view?usp=sharing\n"
+    },
+    "('مدام بوفاري', 'غوستاف فلوبير')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1ykYxOkghGCJEzKcOL21CS8CZHPD_tPgC/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('موبي ديك', 'هيرمان ميلفيل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1pr9rUpY7lugugqkDhkBxynE_G8NQvaOm/view?usp=sharing",
+        "otherUrls": "رابط آخر: https://drive.google.com/uc?id=1tSxTZrQDt6U0EFgbfGj9P0oPstYM-lkV&export=download&fbclid=IwAR0ny4rt0T_TxFsUIzN3QagsePAcJDqMptBQIMPXQx2iQlFYo2Jbw5QYC4M\n"
+    },
+    "('كونت دي مونت كرستو', 'اليكسندر دوماس.')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1KfhNv2PwqOxcs23dSfLcik8XUcfLtsVb/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('غادة الكاميليا', 'ألكسندر ديماس الابن')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1Ga_WqYue47ep2T4C_KqdhqgHtBHL0-_o/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('اللوح الأزرق', 'جيلبرت سينويه')": {
+        "about": "",
+        "size": "",
+        "url": "",
+        "otherUrls": "الجزء الأول: https://ia600103.us.archive.org/28/items/cutegirle84_gmail_1_20171231_2025/1%D8%A7%D9%84%D9%84%D9%88%D8%AD%3D%D8%A7%D9%84%D8%A3%D8%B2%D8%B1%D9%82%3D%D8%AC%D9%8A%D9%84%D8%A8%D8%B1%D8%AA%3D%D8%B3%D9%8A%D9%86%D9%88%D9%8A%D9%87.rar\n\nالجزء الثاني: https://ia600101.us.archive.org/10/items/cutegirle84_gmail_2_20171231_2029/2%D8%A7%D9%84%D9%84%D9%88%D8%AD%3D%D8%A7%D9%84%D8%A3%D8%B2%D8%B1%D9%82%3D%D8%AC%D9%8A%D9%84%D8%A8%D8%B1%D8%AA%3D%D8%B3%D9%8A%D9%86%D9%88%D9%8A%D9%87.rar\n\nالجزء الثالث: https://ia800100.us.archive.org/19/items/cutegirle84_gmail_3_201801/3%D8%A7%D9%84%D9%84%D9%88%D8%AD%3D%D8%A7%D9%84%D8%A3%D8%B2%D8%B1%D9%82%3D%D8%AC%D9%8A%D9%84%D8%A8%D8%B1%D8%AA%3D%D8%B3%D9%8A%D9%86%D9%88%D9%8A%D9%87.rar\n\nالجزء الرابع: https://ia600102.us.archive.org/22/items/cutegirle84_gmail_4_201801/4%D8%A7%D9%84%D9%84%D9%88%D8%AD%3D%D8%A7%D9%84%D8%A3%D8%B2%D8%B1%D9%82%3D%D8%AC%D9%8A%D9%84%D8%A8%D8%B1%D8%AA%3D%D8%B3%D9%8A%D9%86%D9%88%D9%8A%D9%87.rar\n\nالجزء الخامس: https://ia600101.us.archive.org/33/items/cutegirle84_gmail_5_201801/5%D8%A7%D9%84%D9%84%D9%88%D8%AD%3D%D8%A7%D9%84%D8%A3%D8%B2%D8%B1%D9%82%3D%D8%AC%D9%8A%D9%84%D8%A8%D8%B1%D8%AA%3D%D8%B3%D9%8A%D9%86%D9%88%D9%8A%D9%87.rar\n\nالجزء الأخير: https://ia600107.us.archive.org/31/items/cutegirle84_gmail_6_201801/6%D8%A7%D9%84%D9%84%D9%88%D8%AD%3D%D8%A7%D9%84%D8%A3%D8%B2%D8%B1%D9%82%3D%D8%AC%D9%8A%D9%84%D8%A8%D8%B1%D8%AA%3D%D8%B3%D9%8A%D9%86%D9%88%D9%8A%D9%87.rar\n"
+    },
+    "('حيث تركتُ روحي', 'جيروم فيراري')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1yeJFpDXqwsihWudM5YR9J11CdMKoDuCO/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('ميتتان لرجل واحد', 'جورج أمادو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1Kcpfq9x8iKUOK7rTZAyedZFccHtTEQLG/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('ورددت الجبال الصدى', 'خالد حسيني')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1XD68VmxSANwxnu4LLdWwvfGjV7Qiiva7/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('عدّاء الطائرة الورقية', 'خالد حسيني')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1x_EzBmgNuRgQiwnVPIza27Iu1MZoIgOz/view?usp=sharing",
+        "otherUrls": "رابط آخر: https://drive.google.com/file/d/1ufhOqMpJ0ujMaslDImKmdD5YpZcXczAo/view?usp=sharing\n"
+    },
+    "('ألف شمس ساطعة', 'خالد حسيني')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/uc?id=1mAKj5HiPqIE5pbTsKwCWIPgykKvZ_6Gi&export=download&fbclid=IwAR0nuIWz7YAl5lruTHP5PgFY4fOHwMc3-GIscEXQ00cbIE9T0IesHh6ZTxo",
+        "otherUrls": ""
+    },
+    "('الشيخ والبحر', 'إرنست همنجواي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1Oz3e78mdljYpvYGjMZdAde3Bye158lq5/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('سجين زندا', 'أنتوني هوب')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/17D-IMKkFdRUa8DC6TymGyCe4gWfw_WOd/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الفتى الذي طَوَّعَ الرياح', 'ويليام كامكوامبا وآخرون')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1My53KRpyI4KpQsc-cL0mgzZvxJ3atCBY/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('لغز الصندوق الإسباني', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1e6ZBdA3TpeE-KoEoQvb6v1WBSC1lz_vD/view",
+        "otherUrls": ""
+    },
+    "('لغز الكاريبي', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1nvd5A1AvUzSkhpM74t7XL-5r4cR-6Li0/view",
+        "otherUrls": ""
+    },
+    "('مقتل السيدة ماغنتي', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1zS0fTewZyrMArLDuLBBS-bFNkR_KHARb/view",
+        "otherUrls": ""
+    },
+    "('شريط القياس', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1CX7UOJ1JkjeULInVj3iHAwQeqn-IL29p/view",
+        "otherUrls": ""
+    },
+    "('قضية الخادمة المثالية', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/13cIAS5FhIERTcn8naAd-KYj6OrMou8MN/view",
+        "otherUrls": ""
+    },
+    "('شقة الطابق الثالث', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1rF20zFu-Csy3nASMTHq2qgW_vlEvnp-u/view",
+        "otherUrls": ""
+    },
+    "('سر المنبهات السبعة', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1qTKYh2LrWQFOpxFlUJX45i07sJZJJmLg/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('واختفى كل شيء', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://www.youtube.com/watch?app=desktop&v=8xrg7zSP39Y",
+        "otherUrls": ""
+    },
+    "('مصرع فنان', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1JJTX0WDdOBwFKY8ulSNO2psmSFmQSV-H/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('أدلة الجريمة', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1IodxjjU3En6Qz8dr2x4glgOgj-vVg_dl/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('ذاكرة الأفيال', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/10HeHY85fK4GJS6Z4gGvnt9h6m4xoC3uL/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('جزيرة المهربين', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1-kHwEgZwGKuXZUbm-waImNJyFP9c26gV/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الشر تحت الشمس', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1W4o77khBTIrHRX17TmrIiuGqYjGIXG3M/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('ساعة الصفر', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1Q_xv9u6Tu-V61Ba2lJsqmu2jHwRdKoWd/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('جريمة قتل بالمتر تحقيق مسز ماربل', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1l1iTpaqUTjiPdwAVzLRMm3E_XhgZblso/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('جريمة في الإسطبلات', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1g_YmfqszftU4bOZqYG83s6kVFCvQr8UF/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('تحريات بوارو', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1nDMJDCFG3Mq6CRNzTyegRzW5tHAdaR3V/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('قطار من الشرق', 'أجاثة كريستي:')": {
+        "about": "",
+        "size": "",
+        "url": "",
+        "otherUrls": "الجزء الأول: https://ia801503.us.archive.org/11/items/storry/storry.rar\n\nالجزء الثاني: https://ia601508.us.archive.org/3/items/storry2/storry2.mp3\n\nالجزء الثالث: https://drive.google.com/file/d/0Bw09Em-FuSOqanBjbVJ6eWg1dWs/view\n"
+    },
+    "('ثم لم يبقَ أحد', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1As01jQY16t8BC3mVVg_Vida0nTzX9LTY/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('مقتل روجر أكرويد', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://ia601503.us.archive.org/9/items/010320181/01-03-2018%5B1%5D.zip",
+        "otherUrls": "رابط آخر: https://drive.google.com/file/d/1P39TmbXC5e05rkURij3urX84-fthuMtC/view?usp=sharing\n"
+    },
+    "('خطر في البيت الأخير', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1NLSICuHWE9badKHF8O8MKdVPncqDYPq9/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الجريمة النائمة', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1iDhOePZCwS6x5grzgiYH9gTToOS85h49/view?usp=drivesdk",
+        "otherUrls": ""
+    },
+    "('إعلان عن جريمة', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "",
+        "otherUrls": "الجزء الأول:  https://ia801503.us.archive.org/11/items/storry/storry.rar\n\nالجزء الثاني:  https://ia601503.us.archive.org/24/items/RewaiaPart2/rewaia%20-part2.zip\n\nالجزء الثالث:  https://drive.google.com/file/d/0Bw09Em-FuSOqanBjbVJ6eWg1dWs/view\n"
+    },
+    "('جنون الانتقام', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1XqhOtADBbeRzs7PDZNezkAC8qf9F6kTk/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الفراغ', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1NxU1uwLaQYAEYVQILEct3LcS55YIisMi/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('كأس السم', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1HTQ_qY5NdY1NJVEcVAuehJZQITXEZbf0/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('خطابات الموت', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1_fEPFFPVS17kju4oFN89bhxRgATxFPrt/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('لغز المنبهات السبع', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/16nl0SrtlSUOko6tokR9fx9RG25fV_CK9/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('موعد في بغداد', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1gYZS3eW1U1lQEgWP2T8IXw0AI0XLKpvc/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('شبكة العنكبوت', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1ExGeUEu-GlDo0uH1RBoPGR7GS-_lXQM0/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('المصيدة', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1Ef9eTvpxjc_gTso7b4AICUIC-mJce-dm/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('شقة بالطابق الثالث', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1puRVOlD61kcx8Et-Vg4ih8Vi4L3aDTJa/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('خدعة الساحر', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/17ZSV46V3iww5gCaMmhKv2K8lfg12oBcV/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('سر المقبرة', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1AuYbpkOq9gg2O67rgKtq353U06dvwYlS/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('جريمة القطار', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1dce6gEk8GUPfnxORujdPcdhnbr2D0g3I/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('سباق مع الموت', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1q4r77-A5mXrQIkXhrfvhn4m8-9-jSgVp/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('موت فوق النيل', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1bSzPivtoT5HmMBnlJ6Q09BG_p-eJ5Z25/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('جريمة بلا شهود (جريمة الحفل الراقي)', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1naHL8GnOfWu0GXgdsDUuDdGSDt60HIcF/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الغجرية', 'أجاثا كريستي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1JbO7EZklyWrqlQt6GNIazxPdGFZRXWYx/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('بول وفرجيني  (الفضيلة)', 'ديسانبيير')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/16zBqdUkM2HKCBh0m_OEGxpsdrRXZLCXX/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('مغامرات دون كيشوت', 'ميغيل دي سيرفانتيس')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/10-pXvoJozBDDLNeDZQOSZdV7mKz8DKgl/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('القناص', 'بلايز ميني فسكي')": {
+        "about": "",
+        "size": "",
+        "url": "",
+        "otherUrls": ""
+    },
+    "('شبح كانتيرفيل', 'اوسكار وايلد')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/10VHm_vFNaZWTqfWdgBTPhKjmGrrYsH4I/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('صورة دوريان جراي', 'اوسكار وايلد')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/uc?id=1TYglY8WYau4LHNvHw1y0711tD0_HClTn&export=download&fbclid=IwAR2JkZZPGmJMv0q-R6HY5uLqw7z17tRTOfVvgCrUwrPUEgXHo1gV6rzEzu4",
+        "otherUrls": ""
+    },
+    "('سنترال بارك', 'غيوم ميسو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/19nhPy4KgQVS-LPecM_0c-DPGaah98PqR/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('غدًا', 'غيوم ميسو')": {
+        "about": "",
+        "size": "",
+        "url": "http://www.mediafire.com/file/s66u7ejuji6vbhc/%D8%BA%D8%AF%D8%A7-%D8%BA%D9%8A%D9%88%D9%85+%D9%85%D9%8A%D8%B3%D9%88.zip?fbclid=IwAR3iopElOQkALmOiFY4r0mf9PAhk5eHYE9gtinENBOcNcq1crvuLl44q4ww",
+        "otherUrls": ""
+    },
+    "('فتاة من ورق', 'غيوم ميسو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/15jBQ_5NNqfPpYwfioLAPXkdN3c5GHz0T/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('لأنني أحبك', 'غيوم ميسو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1zKcE8JuugzlhyzRAG3EQsTyaaCTYKKYm/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('حكاية مملة من مذكرات رجل عجوز', 'أنطون تشيخوف')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1luRMMZsMP40QD6sO43PcwGVUNB47VhJu/view",
+        "otherUrls": ""
+    },
+    "('المبارزة', 'أنطون تشيخوف')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1eLcd3aYUq7TkN0ZeXK7WthaeKu7UEsPA/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('كاشاتانكا', 'أنطون تشيخوف')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1P3V2-6wBx7bwu1TFoki5gz9aEGs1Oh0f/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('كوخ العم توم', 'هيريت ستو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/13wLhDHBPrK7pqPUKHwPHc8H0ZcOYkALu/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('عالم صوفي', 'جوستاين غاردر،')": {
+        "about": "",
+        "size": "",
+        "url": "",
+        "otherUrls": "الجزء الأول: https://ia801505.us.archive.org/26/items/soofy_part_1/soofy_part_1.zip\n\nالجزء الثاني: https://ia801505.us.archive.org/7/items/soofy_part_2/soofy_part_2.zip\n\nالجزء الثالث: https://drive.google.com/file/d/1NLpmyyIoholvqxmtE_L8sCTsS2hCoY53/view?usp=sharing\n\nالجزء الرابع: https://ia601507.us.archive.org/34/items/soofy_part_4/soofy_part_4.zip\n\nالرواية برابط واحد: https://drive.google.com/file/d/1Lsy_nZgUKLBFTl6WCta9vwiG8QwaJriS/view?usp=sharing\n"
+    },
+    "('الأصايل الخمس', 'هنرييت سكسك')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/16BuIdT_dO9l6q_jsjPYcsZZco0fU3e_0/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('د. جيكل ومستر هايد', 'روبرت لويس ستيفنسون')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1gsuNlyrCjkYdMx9N5Ml3XpzVJAMf2kAJ/view?usp=sharing",
+        "otherUrls": "نسخة أخرى: https://drive.google.com/file/d/1I9H6GT63MLTASridQkzSHxEvP1tZrCZF/view?usp=sharing\n\nنسخة أخرى درامية: https://www.youtube.com/watch?v=zdRGGeydKn8\n"
+    },
+    "('جزيرة الكنز', 'روبرت لويس ستيفنسون')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1mCFeNA3QoSST5a3yjDtXQpiV6opxDK-2/view",
+        "otherUrls": ""
+    },
+    "('جوهرة النجوم السبعة', 'برام ستوكر')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1FM5L8Thvx7EsYXZ2O0TrSTkjttL7a-Yf/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('دراكولا', 'برام ستوكر')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1Nl5wDFpATpS3PEV12QYQl5PONZJLb7oZ/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('المساكين', '')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1H3lSecI3SS-IWfUE8CpxngCY0e3rvm3R/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('ذكريات من منزل الأموات', 'فْيُودُور دوستويفسكي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1QhGPqyjIrJBgWKt6YUEu5OghDscaTci8/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الفقراء', 'فيودور ديوستوفسكي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/14EolRGSEK6QwjKhMQPcVy-UQzSaz0o5H/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('المراهق', 'فيودور ديوستوفسكي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1ToysX0m90h16Vbk03CMx3hseKA5r-aE5/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('المزدوج', 'فيودور ديوستوفسكي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1favADVioyR28kWxaF1AAODc2Qw9m0JLn/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('قلب ضعيف', 'فيودور ديوستوفسكي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/15A6NYeSM51k8NzR7a82hH9EVsvM6EGmB/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الإنسان الثرثار (رسائل من باطن الأرض)', 'فيودور دوستويفيسكي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1Q698d4wbgt3rD-0fj4YjopnVyiNldDxd/view",
+        "otherUrls": ""
+    },
+    "('الزوج الأبدي', 'فيودور دوستويفيسكي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1nBKTZz7H3vil7_WtEcm5TEU2SE0ZVmmN/view",
+        "otherUrls": ""
+    },
+    "('حلم رجل مضحك', 'فيودور دوستويفيسكي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1odGLTcwttSbjKS6-GU5mVm3sspRbUzAa/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('المقامر', 'فيودور دوستويفسكي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1cOLNr32ovJBUj0uetfLUJSKebSB-gMD-/view",
+        "otherUrls": ""
+    },
+    "('رسائل من أعماق الأرض', 'فيودور دوستويفسكي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/uc?id=1NGXQkMl5A8Lz9TL9vS03LSa50qTCjK-n&export=download&fbclid=IwAR0d0KiKjChINX7QYxEIA2Hm_RH5i8OypoLhzqaxJ9o3Wyr_9g_SpGQRUw0",
+        "otherUrls": ""
+    },
+    "('قصة أليمة', 'فيودور دوستويفسكي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1tL4zEPwQ3mtjWcI1lzyPgfo_3_JP3yrA/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('قلبٌ ضعيف', 'فيودور دوستويفسكي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1fctKcw95Wn1_77ekAGSMwbsl6WA-bnEB/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الليالي البيضاء', 'دوستويفسكي')": {
+        "about": "",
+        "size": "",
+        "url": "https://www.youtube.com/watch?v=p-yi0peumhw&list=PLknkgRBRYNKWyuNIP04I6KyTzRT8jmcQa&index=5",
+        "otherUrls": "رابط آخر: https://drive.google.com/file/d/1kw3n4TLobGA0QR_6pS7JG4uswT-Y7s7y/view?usp=sharing\n"
+    },
+    "('الإنسان الصرصار', 'فيودور دوستويفسكي...')": {
+        "about": "",
+        "size": "",
+        "url": "https://ia601505.us.archive.org/27/items/05032018/05-03-2018.zip",
+        "otherUrls": ""
+    },
+    "('الشياطين', 'فيودور دوستويفسكي')": {
+        "about": "",
+        "size": "",
+        "url": "",
+        "otherUrls": "ج1: https://drive.google.com/file/d/1iey61vqg9lxvONClBH9rpu3fZfMo4pmz/view?usp=sharing\n\nج2: https://drive.google.com/file/d/1kUm4sz_3w7I2xXYx1vjBpGgEhXeMJGz8/view?usp=sharing\n\n\n"
+    },
+    "('في قبوي', 'فيودور دوستويفسكي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1KmdMfTNbewK7Wydef1hihyNJJLq_xa6x/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الجريمة والعقاب', 'فيودور دوستويفسكي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/135FnibUMIkD3LEBu1rChvJmzDr2OO6SO/view?usp=sharing",
+        "otherUrls": "رابط آخر: https://drive.google.com/drive/folders/1_g47Rl4wJiETHKG3SLjx9po-pv0HoUcF?fbclid=IwAR21QLa7emeLDlZabiGGxF3x6CW8kkH24U8C7LBKHiwhHX6V1TKdxsCf3vU\n"
+    },
+    "('الإخوة كارامازوف', 'فيودور دوستويفسكي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1yXr1U2II7QSc11OSFt4loIGY7HZHUQBi/view?usp=sharing",
+        "otherUrls": "الباب الأول: https://drive.google.com/file/d/193qsewOdVj6kr96HeRquAZkWxjaZ1XZN/view?usp=sharing\n\nالباب الثاني: https://drive.google.com/file/d/1Bnok66mkDs0pEBVKh8KcHQzAfoCdv8f3/view?usp=sharing\n\nالباب الثالث: https://drive.google.com/file/d/12CZvgvWRwQAH32ixjGU7g5v1PrYu9bmg/view?usp=sharing\n\nالباب الرابع: https://drive.google.com/file/d/1MxsyIBhrcsoq56jI_4R9MNW9maOv3svo/view?usp=sharing\n\nالباب الخامس: https://drive.google.com/file/d/19Uv59agsKqEjB2_vAhGis5IulwyHcSl6/view?usp=sharing\n\nالباب السادس: https://drive.google.com/file/d/1ou8cid_u-gguAsJ6_wYnezMqCxxyxIOa/view?usp=sharing\n\nالباب السابع: https://drive.google.com/file/d/13_4IpYdlzeW-7e_Rpno-KwxnVW_56uHO/view?usp=sharing\n\nالباب الثامن: https://drive.google.com/file/d/1CCeaVWYVa4gi9NhUfEiHAjgbmnD4leNT/view?usp=sharing\n\nالباب التاسع: https://drive.google.com/file/d/1pnUPgXqezH18R7aeHIXASsO4WXrm-Wrk/view?usp=sharing\n\nالباب العاشر: https://drive.google.com/file/d/1E9hGjw5vJQDC8XWRwCeVCNvttY-o1VOz/view?usp=sharing\n\nالباب الحادي عشر: https://drive.google.com/file/d/1l5pWo9XD2gFySOGMmGBrNCxT55mk-uFp/view?usp=sharing\n\nالباب الأخير: https://drive.google.com/file/d/1AoYznqpSAKSlsld4WMDP7o0wG9bpUYvh/view?usp=sharing\n"
+    },
+    "('الأب الغني والأب الفقير', 'روبرت كيوساكي.')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1L_F35quCzaQpugr3h0BbutP-Z_SlznO7/view?usp=sharing",
+        "otherUrls": "رابط آخر: https://drive.google.com/file/d/1rXlXJakRQSpme_BJ2ikXt3uP0FcQKnF3/view?usp=sharing\n"
+    },
+    "('الحصن الرقمي', 'دان براون')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/10Qke5SW_15bWIjCH0XIMYusTi50Vw2I3/view?fbclid=IwAR220NRHApap61mUKjdmB2fMUP9JArtXLRbZFVIDL8KB-oMiYCBTqAi-hes",
+        "otherUrls": ""
+    },
+    "('الأصل', 'دان براون')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1wF-g0qujQmxaCJm90jXuKmloXZgrcKAq/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الجحيم', 'دان براون:')": {
+        "about": "",
+        "size": "",
+        "url": "",
+        "otherUrls": "الجزء الأول: https://drive.google.com/file/d/1LKVuTV6sI9fTti_bimhF92V5mNJrhrMb/view?usp=drivesdk\n\nالجزء الثاني: https://drive.google.com/file/d/1tbZz8fyqQI3kj_iV6rLTL8qeXEf3tsOv/view?usp=sharing\n\nالكتاب برابط واحد: https://drive.google.com/uc?id=1Rv_5FloNnTdsvbbO0aq7JimDu2GC2o5-&export=download&fbclid=IwAR0JiZ4KbAD73TmylMhKLKeEb3rvHZejjq3nm0bMND7__-2PhGF_8awTEMI\n"
+    },
+    "('ملائكة وشياطين', 'دان براون')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1rB6DAw1mh4Zh0jPcA1jjtyMgfirUCsGi/view?usp=sharing",
+        "otherUrls": "رابط آخر: https://drive.google.com/uc?id=1bcjzwRzXBP9q2KX6Q47DAy825pAHuyxD&export=download&fbclid=IwAR28H0lVIf_07lFAeW8NVgMjT9gLkDL7Aj5Is2hwCXX2eSwVzRjessI0JwQ\n"
+    },
+    "('شفرة دافينشي', 'دان براون')": {
+        "about": "",
+        "size": "",
+        "url": "",
+        "otherUrls": "الجزء الأول:  https://drive.google.com/file/d/11_24g9LvHYpniAVmTGIRoJE6QqstueQ6/view?usp=drivesdk\n\nالجزء الثاني:  https://drive.google.com/file/d/1Va6MiABgHLs1gRsoQP9xMIJ3Wxjrhr5D/view?usp=drivesdk\n\nالرواية برابط واحد: https://drive.google.com/file/d/1VhlG35FEsxFiC6LdIEbVbty5BcSjWmuv/view?usp=sharing\n"
+    },
+    "('الرمز المفقود', 'دان براون')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/112V50mJXqG5l_dF1pFlSkktPhNCUZfWf/view?usp=sharing",
+        "otherUrls": "رابط آخر: https://drive.google.com/uc?id=1G_TPUunIBbV0xcGtDt9ACakTDpJ29jTH&export=download&fbclid=IwAR1JGD2TTmM7JD0QLo5OyEDjACAwmZ-Sd_CKtOwX1tyCjzOuL-xJBGptYCc\n"
+    },
+    "('فرانكشتاين', 'ماري شيلي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/15w2DThj4PKNHPdpr8V0yHlOo3P6XprzK/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الذكريات الصغيرة', 'جوزيه ساراماجو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1i3J-XnfkzRAL4e-IkucD1gXImI1e9QxJ/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('العمى', 'جوزيه ساراماجو.')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/143OixpZKB61m7IxKMfiMNumAiI1ztBHx/view",
+        "otherUrls": "رابط آخر: https://drive.google.com/file/d/1c24NVlHXm_cX0bzamqYueiBVwMzC6ftC/view?usp=sharing\n"
+    },
+    "('ابنة القس', 'جورج أورويل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1xdd1eeaeMEDSPSKRZXvaxVocRkPtPTWp/view",
+        "otherUrls": ""
+    },
+    "('الخروج إلى الهواء الطلق', 'جورج أورويل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1yF9XVHOyS7o31x7Vjh_7Fz9UinDje5y9/view",
+        "otherUrls": ""
+    },
+    "('الطريق إلى رصيف ويجان', 'جورج أورويل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/11800H4pXQHIMKpCYOBi6LH0VUhhk0aXC/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('مزرعة الحيوانات', 'جورج أورويل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1c-z-f8EeZfX4-LQxMrq4JPHUTc3mHPQX/view",
+        "otherUrls": "رابط آخر: https://drive.google.com/uc?id=1VpKmRpQqiEebZPYKXBVxzn_k708N5U_w&export=download&fbclid=IwAR1OKRxV1iTuAeCtmYcZAfDsWsPs-WyY889rGivD05_qcY6eaImhXtNT32A\n"
+    },
+    "('1984', 'جورج اوريل')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/0B3oNBcxuMGAMMTAtRFhDTkNXYmM/view",
+        "otherUrls": "رابط آخر: https://drive.google.com/uc?id=16LXDBkm1TJyWvJ3WZSlie3njJnsY5J3m&export=download&fbclid=IwAR1y9YOKAeAsCpyLCA9vRc6EIN-BWe7xkm9ZCm7YT8bao7AyFXpdCUtlx2U\n"
+    },
+    "('مقتل الكومنداتور', 'هاروكي موراكامي')": {
+        "about": "",
+        "size": "",
+        "url": "ج1. فكرة تظهر: https://drive.google.com/file/d/17cNxeiiAyUTAhSxa2BG-BP4m7CLGAb8h/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('نعاس', 'هاروكي موراكامي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1Uafc9tEhDCwptQ_axgG_eYcUzPF9rr3y/view?usp=sharing",
+        "otherUrls": "رابط آخر: https://drive.google.com/file/d/19sqlsluMqxVujQijhk-8-0jImhSIif4U/view?usp=sharing\n"
+    },
+    "('كافكا على الشاطئ', 'هاروكي موراكامي')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/0B3oNBcxuMGAMOWozUENEVjhqZlU/view",
+        "otherUrls": ""
+    },
+    "('ليون الإفريقي', 'أمين معلوف')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1hTrU_24w7Az2AjJKN1zatt7Z8XzHak0Y/view",
+        "otherUrls": ""
+    },
+    "('سمرقند ـ', 'أمين معلوف')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/0B3oNBcxuMGAMdGFFNkNRNUVPaEE/view",
+        "otherUrls": "رابط آخر: https://drive.google.com/file/d/1Z-19dLk7CSc28kQ2jJXlt7WT6rQsLlVy/view?usp=sharing\n"
+    },
+    "('أنا لا أخاف', 'نيكولو أمانيتي.')": {
+        "about": "",
+        "size": "",
+        "url": "https://archive.org/download/marwaassem84_gmail_201710/%D8%A3%D9%86%D8%A7%20%D9%84%D8%A7%20%D8%A3%D8%AE%D8%A7%D9%81%20%D8%B5%D9%88%D8%AA%20%D9%88%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%89.mp3",
+        "otherUrls": ""
+    },
+    "('البيت الموحش', 'تشارلز ديكنز')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1T0jh21H5Viu79l7dY96xgVbfhH6lBLUN/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('اوليفر تيوست', 'تشارلز ديكنز')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1syAwCeVjC2sn0GATRPqkH5B3eufjGika/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('ديفيد كوبرفيلد', 'تشارلز ديكنز')": {
+        "about": "",
+        "size": "",
+        "url": "http://www.mediafire.com/file/7nswib89ko4htyt/%D8%AF%D9%8A%D9%81%D9%8A%D8%AF+%D9%83%D9%88%D8%A8%D8%B1%D9%81%D9%8A%D9%84%D8%AF-%D8%AA%D8%B4%D8%A7%D8%B1%D9%84%D8%B2+%D8%AF%D9%8A%D9%83%D9%86%D8%B2.zip?fbclid=IwAR2Hl7iNSmYSpPLqVakLqlHO-IWuXMy45X5-9GGCXjJg7O80PkailZ9FDBI",
+        "otherUrls": "رابط آخر: https://drive.google.com/file/d/1z0xTSlaumZ19Qf9AkW51lfJMO1RO_fG-/view?usp=sharing\n"
+    },
+    "('الآمال العظيمة', 'تشارلز ديكننز')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1iXQffJolEyRYQAcIQpqR8hDRAVsAhe-b/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('قصة مدينتين', 'تشارلز ديكنز')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1qWWItVP9Idqv0ZEOFWK8emqsbdGEq1xT/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('الحمامة', 'باتريك زوسكيند')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1kBZyrVZyzS59s16SZa4V4hvW5YZE1AHi/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('العطر', 'باتريك زوسكيند')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1ZeLczwaeNmyWOrQdIQMTlmV_YIqBTiaD/view?usp=sharing",
+        "otherUrls": ""
+    },
+    "('البؤسائء', 'فكتوري هيجو')": {
+        "about": "",
+        "size": "",
+        "url": "https://drive.google.com/file/d/1dsBuwQicol3QmbMLdo0Bjq3VZR3oL9mY/view",
         "otherUrls": ""
     }
 }
