@@ -1,0 +1,8 @@
+{
+    "('tukish book', 'turkish author')": {
+        "about": "about the turkish book",
+        "size": "22",
+        "url": "www.turkishbooks.com",
+        "otherUrls": "No other urls for thus turkish book."
+    }
+}
